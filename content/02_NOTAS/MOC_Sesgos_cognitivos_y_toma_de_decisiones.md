@@ -1,9 +1,16 @@
----
-area: "Sesgos cognitivos y toma de decisiones"
-tags: [cerebro-pensamiento, moc]
----
-# MOC: Sesgos cognitivos y toma de decisiones
+# MOC — Sesgos cognitivos y toma de decisiones
 
-## Ruta de lectura sugerida (por prioridad)
-- **Calculated Risks: How to Know When Numbers Deceive You** (Gerd Gigerenzer, 2002 (Simon & Schuster)) — nivel basico, prioridad 1 — nota: [[Libros/Gigerenzer_Calculated_Risks]] — `DJVU`  p.
-- **Judgment under Uncertainty: Heuristics and Biases** (Kahneman, Slovic, Tversky (eds.), 1982 (Cambridge)) — nivel avanzado, prioridad 2 — nota: [[Libros/Kahneman_Judgment_Under_Uncertainty]] — `PDF`  p. [md5 ok]
+Ruta de lectura ordenada por prioridad.
+
+1. **Pensar rapido, pensar despacio (Thinking, Fast and Slow)** — Daniel Kahneman (2011) — nivel intermedio, prioridad 1 — resumen: [[Resumenes_Nivel1/Pensar_rapido_pensar_despacio_Thinking_Fast_and_Slow)|N1]] — `Kahneman__Pensar rapido pensar despacio (Thinking Fast and Slow).pdf`
+2. **Calculated Risks: How to Know When Numbers Deceive You** — Gerd Gigerenzer (2002 (Simon & Schuster)) — nivel basico, prioridad 1 — resumen: [[Resumenes_Nivel1/Calculated_Risks_How_to_Know_When_Numbers_Deceive_You|N1]] — `Gigerenzer_Calculated_Risks.djvu`
+3. **Judgment under Uncertainty: Heuristics and Biases** — Kahneman, Slovic, Tversky (eds.) (1982 (Cambridge)) — nivel avanzado, prioridad 2 — resumen: [[Resumenes_Nivel1/Judgment_under_Uncertainty_Heuristics_and_Biases|N1]] — `Kahneman_Judgment_Under_Uncertainty.pdf`
+4. **Risk Savvy (Riesgo: como tomar decisiones acertadas)** — Gerd Gigerenzer (2014 (Viking; espanol Alienta 2014)) — nivel basico, prioridad 2 — resumen: [[Resumenes_Nivel1/Risk_Savvy_Riesgo_como_tomar_decisiones_acertadas)|N1]] — `Gigerenzer__Risk Savvy (Riesgo como tomar decisiones acertadas).epub`
+5. **Better Doctors, Better Patients, Better Decisions** — Gerd Gigerenzer & Muir Gray (eds.) (2011 (MIT Press, acceso abierto)) — nivel intermedio, prioridad 2 — resumen: [[Resumenes_Nivel1/Better_Doctors_Better_Patients_Better_Decisions|N1]] — `(Eds)__Better Doctors Better Patients Better Decisions.pdf`
+6. **Superforecasting (Superpredictores)** — Tetlock & Gardner (2015 (Crown)) — nivel intermedio, prioridad 2 — resumen: [[Resumenes_Nivel1/Superforecasting_Superpredictores)|N1]] — `Tetlock__Superforecasting.epub`
+7. **Ruido (Noise: A Flaw in Human Judgment)** — Kahneman, Sibony, Sunstein (2021 (Taurus/Little Brown)) — nivel intermedio, prioridad 2 — resumen: [[Resumenes_Nivel1/Ruido_Noise_A_Flaw_in_Human_Judgment)|N1]] — `Kahneman__Ruido (Noise A Flaw in Human Judgment).pdf`
+8. **Clinical versus Statistical Prediction** — Paul E. Meehl (1954 (Univ. of Minnesota Press)) — nivel avanzado, prioridad 2 — resumen: [[Resumenes_Nivel1/Clinical_versus_Statistical_Prediction|N1]] — `Meehl__Clinical versus Statistical Prediction.pdf`
+9. **The Checklist Manifesto** — Atul Gawande (2009 (Metropolitan)) — nivel basico, prioridad 2 — resumen: [[Resumenes_Nivel1/The_Checklist_Manifesto|N1]] — `Gawande__The Checklist Manifesto.epub`
+10. **On Being Certain: Believing You Are Right Even When Youre Not** — Robert A. Burton (2008 (St. Martins)) — nivel intermedio, prioridad 2 — resumen: [[Resumenes_Nivel1/On_Being_Certain_Believing_You_Are_Right_Even_When_Youre_Not|N1]] — `Burton__On Being Certain Believing You Are Right Even When Youre Not.pdf`
+11. **Nudge (Malcomidos por los incentivos)** — Thaler & Sunstein (2008; ed. final 2021) — nivel basico, prioridad 3 — resumen: [[Resumenes_Nivel1/Nudge_Malcomidos_por_los_incentivos)|N1]] — `Thaler__Nudge (Malcomidos por los incentivos).epub`
+12. **El cisne negro (The Black Swan)** — Nassim N. Taleb (2007 (Random House)) — nivel intermedio, prioridad 3 — resumen: [[Resumenes_Nivel1/El_cisne_negro_The_Black_Swan)|N1]] — `Nassim_N_Taleb__El_cisne_negro.pdf`

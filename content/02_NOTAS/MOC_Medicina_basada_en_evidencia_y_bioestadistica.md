@@ -1,19 +1,21 @@
----
-area: "Medicina basada en evidencia y bioestadistica"
-tags: [cerebro-pensamiento, moc]
----
-# MOC: Medicina basada en evidencia y bioestadistica
+# MOC — Medicina basada en evidencia y bioestadistica
 
-## Ruta de lectura sugerida (por prioridad)
-- **Evidence-Based Medicine: How to Practice and Teach It** (Straus, Glasziou, Richardson, Haynes, 2011 (4a ed., Churchill-Livingstone)) — nivel basico, prioridad 1 — nota: [[Libros/Straus_Evidence_Based_Medicine]] — `PDF` 407 p.
-- **How Medicine Works and When It Doesnt** (F. Perry Wilson, 2023 (The Experiment)) — nivel basico, prioridad 1 — nota: [[Libros/Wilson_How_Medicine_Works]] — `EPUB`  p.
-- **How to Read a Paper** (Trisha Greenhalgh, 2019 (6a ed., Wiley-BMJ)) — nivel basico, prioridad 1 — nota: [[Libros/Greenhalgh_How_to_Read_a_Paper]] — `PDF` 258 p.
-- **Improving Diagnosis in Health Care** (National Academies (NASEM), 2015 (Informe Balogh/Miller/Sacristan); PDF gratuito con registro en nap.edu) — nivel intermedio, prioridad 1 — nota: [[Libros/NASEM_Improving_Diagnosis]] — `PDF` 473 p.
-- **Los tratamientos a prueba (Testing Treatments, ed. espanol)** (I. Evans, H. Thornton, L. Chalmers, P. Glasziou, 2021 (Cochrane Iberoamericana)) — nivel basico, prioridad 1 — nota: [[Libros/Los_tratamientos_a_prueba_2021_es]] — `PDF` 250 p.
-- **Testing Treatments: Better Research for Better Healthcare** (Evans, Thornton, Chalmers, Glasziou, 2011 (2a ed.)) — nivel basico, prioridad 1 — nota: [[Libros/Evans_Testing_Treatments_2ed_2011]] — `PDF` 226 p.
-- **Users Guides to the Medical Literature: Essentials** (Guyatt, Rennie, Meade, Cook, 2014 (2a ed., McGraw-Hill)) — nivel basico, prioridad 1 — nota: [[Libros/Guyatt_Users_Guides_Medical_Literature]] — `PDF` 700 p. [md5 ok]
-- **Causal Inference: What If** (Miguel A. Hernan, James M. Robins, 2025 (PDF libre de los autores)) — nivel avanzado, prioridad 2 — nota: [[Libros/Hernan_Robins_Causal_Inference_WhatIf_2025]] — `PDF` 359 p.
-- **Introduction to Probability** (C. Grinstead, J. Snell, 2003 (AMS; PDF libre de los autores)) — nivel intermedio, prioridad 3 — nota: [[Libros/Grinstead_Snell_Introduction_to_Probability]] — `PDF` 518 p.
-- **On Being a Scientist (3a ed.)** (National Academy of Sciences (NASEM), 2009 (NASEM, acceso abierto)) — nivel basico, prioridad 3 — nota: [[Libros/NASEM_On_Being_a_Scientist_3e_2009_FULL]] — `PDF` 83 p.
-- **Statistics at Square One** (Michael J. Campbell, 2009 (11a ed., BMJ Books)) — nivel basico, prioridad 3 — nota: [[Libros/Statistics_at_Square_One_9e_BMJ_texto_completo]] — `TXT`  p. (PARCIAL)
-- **Probability Theory: The Logic of Science (borrador parcial)** (E. T. Jaynes, 2003 (posumo; borrador parcial)) — nivel avanzado, prioridad extra — nota: [[Libros/Jaynes_Probability_Theory_Logic_of_Science_partial_draft]] — `PDF` 95 p.
+Ruta de lectura ordenada por prioridad.
+
+1. **Evidence-Based Medicine: How to Practice and Teach It** — Straus, Glasziou, Richardson, Haynes (2011 (4a ed., Churchill-Livingstone)) — nivel basico, prioridad 1 — resumen: [[Resumenes_Nivel1/Evidence_Based_Medicine_How_to_Practice_and_Teach_It|N1]] — `Straus_Evidence_Based_Medicine.pdf`
+2. **Users Guides to the Medical Literature: Essentials** — Guyatt, Rennie, Meade, Cook (2014 (2a ed., McGraw-Hill)) — nivel basico, prioridad 1 — resumen: [[Resumenes_Nivel1/Users_Guides_to_the_Medical_Literature_Essentials|N1]] — `Cook__Users Guides to the Medical Literature Essentials.pdf`
+3. **How to Read a Paper** — Trisha Greenhalgh (2019 (6a ed., Wiley-BMJ)) — nivel basico, prioridad 1 — resumen: [[Resumenes_Nivel1/How_to_Read_a_Paper|N1]] — `Greenhalgh__How to Read a Paper.epub`
+4. **Testing Treatments: Better Research for Better Healthcare** — Evans, Thornton, Chalmers, Glasziou (2011 (2a ed.)) — nivel basico, prioridad 1 — resumen: [[Resumenes_Nivel1/Testing_Treatments_Better_Research_for_Better_Healthcare|N1]] — `Evans_Testing_Treatments_2ed_2011.pdf`
+5. **How Medicine Works and When It Doesnt** — F. Perry Wilson (2023 (The Experiment)) — nivel basico, prioridad 1 — resumen: [[Resumenes_Nivel1/How_Medicine_Works_and_When_It_Doesnt|N1]] — `Wilson__How Medicine Works and When It Doesnt.epub`
+6. **Improving Diagnosis in Health Care** — National Academies (NASEM) (2015 (Informe Balogh/Miller/Sacristan); PDF gratuito con registro en nap.edu) — nivel intermedio, prioridad 1 — resumen: [[Resumenes_Nivel1/Improving_Diagnosis_in_Health_Care|N1]] — `NASEM_Improving_Diagnosis.pdf`
+7. **Los tratamientos a prueba (Testing Treatments, ed. espanol)** — I. Evans, H. Thornton, L. Chalmers, P. Glasziou (2021 (Cochrane Iberoamericana)) — nivel basico, prioridad 1 — resumen: [[Resumenes_Nivel1/Los_tratamientos_a_prueba_Testing_Treatments_ed_espanol)|N1]] — `Los_tratamientos_a_prueba_2021_es.pdf`
+8. **Clinical Epidemiology: The Essentials** — Fletcher & Fletcher (2012 (5a ed., Lippincott)) — nivel intermedio, prioridad 2 — resumen: [[Resumenes_Nivel1/Clinical_Epidemiology_The_Essentials|N1]] — `Fletcher__Clinical Epidemiology The Essentials.pdf`
+9. **Epidemiology: An Introduction** — Kenneth J. Rothman (2012 (2a ed., Oxford)) — nivel intermedio, prioridad 2 — resumen: [[Resumenes_Nivel1/Epidemiology_An_Introduction|N1]] — `Rothman__Epidemiology An Introduction.pdf`
+10. **Clinical Epidemiology: A Basic Science for Clinical Medicine** — Sackett, Haynes, Guyatt, Tugwell (1991 (2a ed.)) — nivel intermedio, prioridad 2 — resumen: [[Resumenes_Nivel1/Clinical_Epidemiology_A_Basic_Science_for_Clinical_Medicine|N1]] — `Sackett__Clinical Epidemiology A Basic Science for Clinical Medicine.pdf`
+11. **Causal Inference: What If** — Miguel A. Hernan, James M. Robins (2025 (PDF libre de los autores)) — nivel avanzado, prioridad 2 — resumen: [[Resumenes_Nivel1/Causal_Inference_What_If|N1]] — `Hernan_Robins_Causal_Inference_WhatIf_2025.pdf`
+12. **Modern Epidemiology** — Lash, Rothman, Greenland (2008 (3a ed., Lippincott)) — nivel avanzado, prioridad 3 — resumen: [[Resumenes_Nivel1/Modern_Epidemiology|N1]] — `Greenland__Modern Epidemiology.epub`
+13. **Biostatistics and Epidemiology: A Primer for Health Professionals** — Wassertheil-Smoller & Smoller (2015 (4a ed., Springer)) — nivel basico, prioridad 3 — resumen: [[Resumenes_Nivel1/Biostatistics_and_Epidemiology_A_Primer_for_Health_Professio|N1]] — `Smoller__Biostatistics and Epidemiology A Primer for Health Professio.pdf`
+14. **Statistics at Square One** — Michael J. Campbell (2009 (11a ed., BMJ Books)) — nivel basico, prioridad 3 — resumen: [[Resumenes_Nivel1/Statistics_at_Square_One|N1]] — `Statistics_at_Square_One_9e_BMJ_texto_completo.txt`
+15. **Introduction to Probability** — C. Grinstead, J. Snell (2003 (AMS; PDF libre de los autores)) — nivel intermedio, prioridad 3 — resumen: [[Resumenes_Nivel1/Introduction_to_Probability|N1]] — `Grinstead_Snell_Introduction_to_Probability.pdf`
+16. **On Being a Scientist (3a ed.)** — National Academy of Sciences (NASEM) (2009 (NASEM, acceso abierto)) — nivel basico, prioridad 3 — resumen: [[Resumenes_Nivel1/On_Being_a_Scientist_3a_ed_)|N1]] — `NASEM_On_Being_a_Scientist_3e_2009_FULL.pdf`
+17. **Probability Theory: The Logic of Science (borrador parcial)** — E. T. Jaynes (2003 (posumo; borrador parcial)) — nivel avanzado, prioridad extra — resumen: [[Resumenes_Nivel1/Probability_Theory_The_Logic_of_Science_borrador_parcial)|N1]] — `Jaynes_Probability_Theory_Logic_of_Science_partial_draft.pdf`
