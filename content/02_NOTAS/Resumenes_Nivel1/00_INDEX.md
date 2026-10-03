@@ -245,4 +245,16 @@ Hume, Mill y Pearson: las bases filosófico-estadísticas de lo demás.
 
 ---
 
+## Estudio activo Nivel 2 (lote 44 — en curso)
+
+Estos libros tienen resumen profundo por capítulos en la carpeta [[00_INDEX_NIVEL2|Resumenes_Nivel2]]. Estudiarlos es la prioridad actual.
+
+- **Why Don't Students Like School (2e)** (Daniel T. Willingham) — prioridad 1 — aprenderás: Nueve principios de la ciencia cognitiva aplicados al aula. — [[Resumenes_Nivel1/Why_Don_t_Students_Like_School_2e|resumen 1]] — [[Resumenes_Nivel2/Why_Don_t_Students_Like_School_2e|resumen N2]]
+- **Uncommon Sense Teaching** (Oakley, Rogowsky, Sejnowski) — prioridad 1 — aprenderás: Neurociencia del aprendizaje para aula y autoestudio. — [[Resumenes_Nivel1/Uncommon_Sense_Teaching|resumen 1]] — [[Resumenes_Nivel2/Uncommon_Sense_Teaching|resumen N2]]
+- **Moonwalking with Einstein** (Joshua Foer) — prioridad 1 — aprenderás: Memoria técnica con el palacio de la memoria. — [[Resumenes_Nivel1/Moonwalking_with_Einstein|resumen 1]] — [[Resumenes_Nivel2/Moonwalking_with_Einstein|resumen N2]]
+- **Psychiatric Interviewing (3e)** (Shawn Christopher Shea) — prioridad 2 — aprenderás: Entrevista psiquiátrica de referencia con método CASE. — [[Resumenes_Nivel1/Psychiatric_Interviewing_3e|resumen 1]] — [[Resumenes_Nivel2/Psychiatric_Interviewing_3e|resumen N2]]
+- **The Perspectives of Psychiatry (2e)** (McHugh & Slavney) — prioridad 2 — aprenderás: Cuatro perspectivas para explicar la psicopatología (enfermedad, dimensión, conducta motivada, trayectoria). — [[Resumenes_Nivel1/The_Perspectives_of_Psychiatry_2e|resumen 1]] — [[Resumenes_Nivel2/The_Perspectives_of_Psychiatry_2e|resumen N2]]
+
+---
+
 Ver también: [[00_MODOS_APRENDIZAJE|Modos de aprendizaje (detalle con rutas)]] — [[00_MOC_MAESTRO|MOC maestro por áreas]]

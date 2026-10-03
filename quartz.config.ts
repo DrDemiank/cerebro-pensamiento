@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Cerebro-Pensamiento — Biblioteca del doctor",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "drdemiank.github.io/cerebro-pensamiento",
     ignorePatterns: ["private", "templates", ".obsidian", "**/Libros/**", "**/00_raw/**", "**/02_wiki/**"],
     defaultDateType: "modified",
     theme: {
