@@ -1,596 +1,356 @@
 # Why Don't Students Like School (2.ª ed.) — Resumen Nivel 2
 
 **Autor:** Daniel T. Willingham
-**Aprenderás:** Nueve principios de la ciencia cognitiva aplicados al aula
-**Método:** resumen por capítulo/sección desde el texto real del epub descargado (MD5 verificado en 00_CATALOGO/catalogo.csv).
+**Aprenderás:** Ciencia cognitiva aplicada al aula y al estudio
+**Idioma:** resumen generado en español desde los capítulos traducidos en [[Libros_Traducidos/|Libros_Traducidos]].
 **Índice N2:** [[Resumenes_Nivel2/00_INDEX_NIVEL2|00_INDEX_NIVEL2]]
 
 ## Capítulos
 
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Introduction 
- Arguably the greatest mysteries in the universe lie in the three-pound mass of cells, approximately the consistency of oatmeal, that reside in the skull of each of us. It has even been suggested that the brain is so complex that our species is smart enough to fathom everything except what makes us so smart; that is, the brain is so cunningly designed for intelligence that it is too stupid to understand itself.We now know that is not true.The mind is at last yielding its secrets to persistent scientific investigation. We have learned more about how the mind works in the last twenty-five years than we did in the previous twenty-five hundred. The gap between research and practice is understandable.When cognitive scientists study the mind, they intentionally isolate mental processes (for example, learning or attention) in the laboratory in ord
-
-**Ideas clave:** Why Don't Students Like School 
-
- Introduction 
- Arguably the greatest mysteries in the universe lie in the three-pound mass of cells, approximately the consistency of oatmeal, that reside in the skul · It has even been suggested that the brain is so complex that our species is smart enough to fathom everything except what makes us so smart; that is, the brain is so cunningly designed for intelligenc · We have learned more about how the mind works in the last twenty-five years than we did in the previous twenty-five hundred.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- The Mind Is Not Designed for Thinking 
-
- What is the essence of being human? What sets us apart from other species? Many people would answer that it is our ability to reason—birds fly, fish swim, and humans think. (By thinking I mean solving problems, reasoning, reading something complex, or doing any mental work that requires some effort.) Shakespeare extolled our cognitive ability in Hamlet : “What a piece of work is man! How noble in reason!” Some three hundred years later, however, Henry Ford more cynically observed, “Thinking is the hardest work there is, which is the probable reason why so few people engage in it.”* They both had a point. Humans are good at certain types of reasoning, particularly in comparison to other animals, but we exercise those abilities infrequently. Thinking is not only effortful, as Ford noted, it’s also slow and unreliabl
-
-**Ideas clave:** Why Don't Students Like School 
-
- The Mind Is Not Designed for Thinking 
-
- What is the essence of being human? · What sets us apart from other species? · Many people would answer that it is our ability to reason—birds fly, fish swim, and humans think.
-
-### Why Don't Students Like School
-
-Not only are we willing to think, we intentionally seek out situations that demand thought. Solving problems brings pleasure.When I say “problem solving” in this book, I mean any cognitive work that succeeds; it might be understanding a difficult passage of prose, planning a garden, or sizing up an investment opportunity.There is a sense of satisfaction, of fulfillment, in successful thinking. In the last ten years neuroscientists have discovered that there is overlap between the brain areas and chemicals that are important in learning and those that are important in the brain’s natural reward system. Many neuroscientists suspect that the two systems are related. Rats in a maze learn better when rewarded with cheese.When you solve a problem, your brain may reward itself with a small dose of dopamine, a naturally occurring chemical that is important to the brain’s pleasure system. Neurosc
-
-**Ideas clave:** Not only are we willing to think, we intentionally seek out situations that demand thought. · Solving problems brings pleasure.When I say “problem solving” in this book, I mean any cognitive work that succeeds; it might be understanding a difficult passage of prose, planning a garden, or sizing up an investment opportunity. · In the last ten years neuroscientists have discovered that there is overlap between the brain areas and chemicals that are important in learning and those that are important in the brain’s natural reward system.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- How Thinking Works 
-
- Understanding a bit about how thinking happens will help you understand what makes thinking hard.That will in turn help you understand how to make thinking easier for your students, and therefore help them enjoy school more. Let’s begin with a very simple model of the mind. On the left of Figure 6 is the environment, full of things to see and hear, problems to be solved, and so on. On the right is one component of your mind that scientists call working memory. For the moment, consider it to be synonymous with consciousness; it holds the stuff you’re thinking about.The arrow from the environment to working memory shows that working memory is the part of your mind where you are aware of what is around you: the sight of a shaft of light falling onto a dusty table, the sound of a dog barking in the distance, and so forth. All of the inf
-
-**Ideas clave:** Why Don't Students Like School 
-
- How Thinking Works 
-
- Understanding a bit about how thinking happens will help you understand what makes thinking hard.That will in turn help you understand how to ma · Let’s begin with a very simple model of the mind. · On the left of Figure 6 is the environment, full of things to see and hear, problems to be solved, and so on.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- 2 
- How Can I Teach Students the Skills They Need When Standardized Tests Require Only Facts? Q uestion: Much has been written about fact learning, most of it negative. The narrow-minded schoolmaster demanding that students parrot facts they do not understand has become a cliché of American education, although the stereotype is neither new nor exclusively American—Dickens used it in Hard Times , published in 1854. Concern about fact learning has intensified in the last ten years as the new emphasis on accountability in education has brought an increase in the use of standardized tests. It is too often true that standardized tests offer little opportunity for students to analyze, synthesize, or critique and instead demand the regurgitation of isolated facts. Many teachers feel that time for teaching skills is crowded out by preparation for standardized te
-
-**Ideas clave:** Why Don't Students Like School 
-
- 2 
- How Can I Teach Students the Skills They Need When Standardized Tests Require Only Facts? · Q uestion: Much has been written about fact learning, most of it negative. · The narrow-minded schoolmaster demanding that students parrot facts they do not understand has become a cliché of American education, although the stereotype is neither new nor exclusively American—Di
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Knowledge Is Essential to Reading Comprhension 
-
- Background knowledge helps you understand what someone is talking about or writing. In the last section I gave a couple of rather obvious examples: if a vocabulary word (for example, yegg ) or a concept (for example, marine organic compound ) is missing from your long-term memory, you’ll likely be confused. But the need for background knowledge is deeper than the need for definitions. Suppose a sentence contains two ideas—call them A and B . Even if you know the vocabulary and you understand A and B, you still might need background knowledge to understand the sentence. For example, suppose you read the following sentence in a novel: 
- “I’m not trying out my new barbecue when the boss comes to dinner!” Mark yelled.
-
-**Ideas clave:** Why Don't Students Like School 
-
- Knowledge Is Essential to Reading Comprhension 
-
- Background knowledge helps you understand what someone is talking about or writing. · In the last section I gave a couple of rather obvious examples: if a vocabulary word (for example, yegg ) or a concept (for example, marine organic compound ) is missing from your long-term memory, you’ll likely be confused. · But the need for background knowledge is deeper than the need for definitions.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Background Knowledge Is Necessary for Cognitive Skills 
-
- Not only does background knowledge make you a better reader, but it also is necessary to be a good thinker.The processes we most hope to engender in our students—thinking critically and logically—are not possible without background knowledge. First, you should know that much of the time when we see someone apparently engaged in logical thinking, he or she is actually engaged in memory retrieval. As I described in Chapter One, memory is the cognitive process of first resort.When faced with a problem, you will first search for a solution in memory, and if you find one, you will very likely use it. Doing so is easy and fairly likely to be effective; you probably remember the solution to a problem because it worked the last time, not because it failed.To appreciate this effect, first try a problem for
-
-**Ideas clave:** Why Don't Students Like School 
-
- Background Knowledge Is Necessary for Cognitive Skills 
-
- Not only does background knowledge make you a better reader, but it also is necessary to be a good thinker.T · First, you should know that much of the time when we see someone apparently engaged in logical thinking, he or she is actually engaged in memory retrieval. · As I described in Chapter One, memory is the cognitive process of first resort.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Factual Knowledge Improves Your Memory 
-
- When it comes to knowledge, those who have more gain more. Many experiments have confirmed the benefit of background knowledge to memory using the same basic method. The researchers bring into the laboratory some people who have some expertise in a field (for example, football or dance or electronic circuitry) and some who do not. Everyone reads a story or a brief article.The material is simple enough that the people without expertise have no difficulty understanding it; that is, they can tell you what each sentence means. You might think this effect is really due to attention. But other studies have actually created experts.
-
-**Ideas clave:** Why Don't Students Like School 
-
- Factual Knowledge Improves Your Memory 
-
- When it comes to knowledge, those who have more gain more. · Many experiments have confirmed the benefit of background knowledge to memory using the same basic method. · The researchers bring into the laboratory some people who have some expertise in a field (for example, football or dance or electronic circuitry) and some who do not.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- How to Evaluate Which Knowledge to Instill 
-
- We might well ask ourselves, Which knowledge should students be taught? This question often becomes politically charged rather quickly.When we start to specify what must be taught and what can be omitted, it appears that we are grading information on its importance.The inclusion or omission of historical events and figures, playwrights, scientific achievements, and so on, leads to charges of cultural bias. A cognitive scientist sees these issues differently.The question, What should students be taught? is equivalent not to What knowledge is important? but rather to What knowledge yields the greatest cognitive benefit? For reading, students must know whatever information writers assume they know and hence leave out.The necessary knowledge will vary depending on what students read, but most observers would agre
-
-**Ideas clave:** Why Don't Students Like School 
-
- How to Evaluate Which Knowledge to Instill 
-
- We might well ask ourselves, Which knowledge should students be taught? · This question often becomes politically charged rather quickly. · A cognitive scientist sees these issues differently.
-
-### Why Don't Students Like School
-
-So why do students remember some things and forget other things? Let’s start by considering why you fail to remember something. Suppose I said to you, “Can you summarize the last professional development seminar you attended?” Let’s further suppose that you brightly answer, “Nope, I sure can’t.”Why don’t you remember? FIGURE 1 : A slightly modified version of our simple diagram of the mind. One of four things has happened, all of which are illustrated in Figure 1 , a slightly elaborated version of the diagram of the mind that we’ve used before.You will recall that working memory is where you keep things “in mind,” the location of consciousness. There is lots of information in the environment, most of which we are not aware of.
-
-**Ideas clave:** So why do students remember some things and forget other things? · Let’s start by considering why you fail to remember something. · Suppose I said to you, “Can you summarize the last professional development seminar you attended?
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- What Good Teachers Have in Common 
-
- If you read Chapter One, you can easily guess a common technique that I would not recommend for getting students to think about meaning: trying to make the subject matter relevant to the students’ interests. I know that sounds odd, so let me elaborate. Trying to make the material relevant to students’ interests doesn’t work. As I noted in Chapter One, content is seldom the decisive factor in whether or not our interest is maintained. Another problem with trying to use content to engage students is that it’s sometimes very difficult to do and the whole enterprise comes off as artificial. How would a math instructor make algebra relevant to my sixteen-year-old daughter?
-
-**Ideas clave:** Why Don't Students Like School 
-
- What Good Teachers Have in Common 
-
- If you read Chapter One, you can easily guess a common technique that I would not recommend for getting students to think about m · I know that sounds odd, so let me elaborate. · Trying to make the material relevant to students’ interests doesn’t work.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- The Power of Stories 
-
- The human mind seems exquisitely tuned to understand and remember stories—so much so that psychologists sometimes refer to stories as “psychologically privileged,” meaning that they are treated differently in memory than other types of material. I’m going to suggest that organizing a lesson plan like a story is an effective way to help students comprehend and remember. It also happens to be the organizing principle used by the four teachers I described.The way in which each of them related emotionally to their students was very different, but the way they got their students to think about the meaning of material was identical. Before we can talk about how a story structure could apply to a classroom, we must go over what a story structure is.There is not universal agreement over what makes a story, but most sources point to the fo
-
-**Ideas clave:** Why Don't Students Like School 
-
- The Power of Stories 
-
- The human mind seems exquisitely tuned to understand and remember stories—so much so that psychologists sometimes refer to stories as “psychol · I’m going to suggest that organizing a lesson plan like a story is an effective way to help students comprehend and remember. · It also happens to be the organizing principle used by the four teachers I described.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Putting Story Structure to Work 
-
- Now, all this about movies has been a diverting interlude (at least I hope it has), but what does it have to do with the classroom? My intention here is not to suggest that you simply tell stories, although there’s nothing wrong with doing so. Rather, I’m suggesting something one step removed from that. Structure your lessons the way stories are structured, using the four Cs: causality, conflict, complications, and character.This doesn’t mean you must do most of the talking. Small group work or projects or any other method may be used. In some cases, the way to structure a lesson plan as a story is rather obvious.
-
-**Ideas clave:** Why Don't Students Like School 
-
- Putting Story Structure to Work 
-
- Now, all this about movies has been a diverting interlude (at least I hope it has), but what does it have to do with the classroom? · My intention here is not to suggest that you simply tell stories, although there’s nothing wrong with doing so. · Rather, I’m suggesting something one step removed from that.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- But What If There Is No Meaning? This chapter began by posing the question, How can we get students to remember something? The answer from cognitive science is straightforward: get them to think about what it means. In the previous section I suggested one method—story structure—for getting students to think about meaning. It’s fair to ask, however, whether there is material that students must learn that is pretty darn close to meaningless. For example, how can you emphasize meaning when students are learning the odd spelling of Wednesday, or that enfranchise means to give voting rights, or that travailler is the French verb for work?
-
-**Ideas clave:** Why Don't Students Like School 
-
- But What If There Is No Meaning? · This chapter began by posing the question, How can we get students to remember something? · The answer from cognitive science is straightforward: get them to think about what it means.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Think Carefully About Attention Grabbers 
-
- Almost every teacher I have met likes, at least on occasion, to start class with an attention grabber. If you hook students early in the lesson, they should be curious to know what is behind whatever surprised or awed them. But attention grabbers may not always work. Here’s a conversation I had with my oldest daughter when she was in sixth grade. Dad:What did you do in school today? Rebecca:We had a guest in science.
-
-**Ideas clave:** Why Don't Students Like School 
-
- Think Carefully About Attention Grabbers 
-
- Almost every teacher I have met likes, at least on occasion, to start class with an attention grabber. · If you hook students early in the lesson, they should be curious to know what is behind whatever surprised or awed them. · But attention grabbers may not always work.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Try Organizing a Lesson Plan Around the Conflict 
-
- There is a conflict in almost any lesson plan, if you look for it.This is another way of saying that the material we want students to know is the answer to a question—and the question is the conflict.The advantage of being very clear about the conflict is that it yields a natural progression for topics. In a movie, trying to resolve a conflict leads to new complications.That’s often true of school material too. Start with the material you want your students to learn, and think backward to the intellectual question it poses. For example, in a science class you might want sixth graders to know the models of the atom that were competing at the turn of the twentieth century. In this story, the goal is to understand the nature of matter. The obstacle is that the results of different experiments appear to con
-
-**Ideas clave:** Why Don't Students Like School 
-
- Try Organizing a Lesson Plan Around the Conflict 
-
- There is a conflict in almost any lesson plan, if you look for it.This is another way of saying that the material · In a movie, trying to resolve a conflict leads to new complications. · Start with the material you want your students to learn, and think backward to the intellectual question it poses.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Understanding Is Remembering in Disguise 
-
- In Chapter Two I emphasized that factual knowledge is important to schooling. In Chapter Three I described how to make sure that students acquire those facts—that is, I described how things get into memory But the assumption so far has been that students understand what we’re trying to teach them. As you know, we can’t bank on that. It’s often difficult for students to understand new ideas, especially ones that are really novel, meaning they aren’t related to other things they have already learned. What do cognitive scientists know about how students understand things? That sounds fairly straightforward.
-
-**Ideas clave:** Why Don't Students Like School 
-
- Understanding Is Remembering in Disguise 
-
- In Chapter Two I emphasized that factual knowledge is important to schooling. · In Chapter Three I described how to make sure that students acquire those facts—that is, I described how things get into memory But the assumption so far has been that students understand what we’re trying to teach them. · As you know, we can’t bank on that.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Why Is Knowledge Shallow? Every teacher has had the following experience:You ask a student a question (in class or perhaps on a test), and the student responds using the exact words you used when you explained the idea or with the exact words from the textbook. Although his answer is certainly correct, you can’t help but wonder whether the student has simply memorized the definition by rote and doesn’t understand what he’s saying. This scenario brings to mind a famous problem posed by the philosopher John Searle. 1 Searle wanted to argue that a computer might display intelligent behavior without really understanding what it is doing. He has an enormous book, each page of which is divided into two columns. There are strings of Chinese characters on the left and on the right.
-
-**Ideas clave:** Why Don't Students Like School 
-
- Why Is Knowledge Shallow? · Every teacher has had the following experience:You ask a student a question (in class or perhaps on a test), and the student responds using the exact words you used when you explained the idea or with the exact words from the textbook. · Although his answer is certainly correct, you can’t help but wonder whether the student has simply memorized the definition by rote and doesn’t understand what he’s saying.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Why Doesn’t Knowledge Transfer? This chapter is about students’ understanding of abstractions. If someone understands an abstract principle, we expect they will show transfer .When knowledge transfers, that means they have successfully applied old knowledge to a new problem. Now, in some sense every problem is new; even if we see the same problem twice, we might see it in a different setting, and because some time has passed, we could say we have changed, even if only a little bit. Most often when psychologists talk about transfer they mean the new problem looks different from the old one, but we do have applicable knowledge to help us solve it. How much money does Jayne need to seed her whole lawn?
-
-**Ideas clave:** Why Don't Students Like School 
-
- Why Doesn’t Knowledge Transfer? · This chapter is about students’ understanding of abstractions. · If someone understands an abstract principle, we expect they will show transfer .
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- 5 
- Is Drilling Worth It? On the other side of this debate are educational traditionalists who argue that students must practice in order to learn some facts and skills they need at their fingertips—for example, math facts such as 5 + 7 = 12. Few teachers would argue that drilling boosts students’ motivation and sense of fun. Does the cognitive benefit make it worth the potential cost to motivation? A nswer: The bottleneck in our cognitive system is the extent to which we can juggle several ideas in our mind simultaneously. You cannot become a good soccer player if as you’re dribbling, you still focus on how hard to hit the ball, which surface of your foot to use, and so on.
-
-**Ideas clave:** Why Don't Students Like School 
-
- 5 
- Is Drilling Worth It? · On the other side of this debate are educational traditionalists who argue that students must practice in order to learn some facts and skills they need at their fingertips—for example, math facts such as 5 + 7 = 12. · Few teachers would argue that drilling boosts students’ motivation and sense of fun.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Practice Enables Further Learning 
-
- To understand why practice is so important to students’ progress, let me remind you of two facts about how thinking works. Figure 1 (which you also saw in Chapter One) shows that working memory is the site of thinking.Thinking occurs when you combine information in new ways.That information might be drawn from the environment or from your long-term memory or from both. For example, when you’re trying to answer a question like “How are a butterfly and a dragonfly alike?” your thoughts about the characteristics of each insect reside in working memory as you try to find points of comparison that seem important to the question. A critical feature of working memory, however, is that it has limited space. Suppose I said, “What do a butterfly, a dragonfly, a chopstick, a pillbox, and a scarecrow have in common?”* These are s
-
-**Ideas clave:** Why Don't Students Like School 
-
- Practice Enables Further Learning 
-
- To understand why practice is so important to students’ progress, let me remind you of two facts about how thinking works. · Figure 1 (which you also saw in Chapter One) shows that working memory is the site of thinking. · For example, when you’re trying to answer a question like “How are a butterfly and a dragonfly alike?
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Practice Makes Memory Long Lasting 
-
- Several years ago I had an experience that I’ll bet you’ve had. I happened on some papers from my high school geometry class. I don’t think I could tell you three things about geometry today, yet here were problem sets, quizzes, and tests, all in my handwriting, and all showing detailed problem solutions and evidence of factual knowledge. This sort of experience can make a teacher despair.The knowledge and skills that my high school geometry teacher painstakingly helped me gain have vanished, which lends credence to the occasional student complaint, “We’re never gonna use this stuff.” So if what we teach students is simply going to vanish, what in the heck are we teachers doing? Well, the truth is that I remember a little geometry. Researchers have examined student memory more formally and have drawn the same conclus
-
-**Ideas clave:** Why Don't Students Like School 
-
- Practice Makes Memory Long Lasting 
-
- Several years ago I had an experience that I’ll bet you’ve had. · I happened on some papers from my high school geometry class. · I don’t think I could tell you three things about geometry today, yet here were problem sets, quizzes, and tests, all in my handwriting, and all showing detailed problem solutions and evidence of factual knowledge.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Practice Improves Transfer 
-
- In Chapter Four I discussed at length the challenges of transferring what you already know to new situations. Remember the problem of attacking the tumor with the rays? Even when subjects had just heard an analogous story that contained the problem solution (attacking a castle with small groups of soldiers), they didn’t transfer the knowledge to the tumor-rays problem. As I mentioned then, transfer does occur, even when there is no obvious surface similarity between the situations. What can we do to increase the odds? It turns out that many factors contribute to successful transfer, but a few of them are especially important.
-
-**Ideas clave:** Why Don't Students Like School 
-
- Practice Improves Transfer 
-
- In Chapter Four I discussed at length the challenges of transferring what you already know to new situations. · Remember the problem of attacking the tumor with the rays? · Even when subjects had just heard an analogous story that contained the problem solution (attacking a castle with small groups of soldiers), they didn’t transfer the knowledge to the tumor-rays problem.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- 6 
- What’s the Secret to Getting Students to Think Like Real Scientists, Mathematicians, and Historians? Q uestion: Educators and policymakers sometimes express frustration that curricula seem so far removed from the subjects they purport to cover. For example, history curricula emphasize facts and dates.The good curricula try to give students some sense of the debates within history. (I once heard an educator rail at the idea of a textbook summing up “ the causes of the U.S. Civil War” as though they were a settled matter.) But very few curricula encourage students to think as historians do—that is, to analyze documents and evidence and build a case for an interpretation of history. Similarly, science curricula have students memorize facts and conduct lab experiments in which predictable phenomena are observed, but students do not practice actual scient
-
-**Ideas clave:** Why Don't Students Like School 
-
- 6 
- What’s the Secret to Getting Students to Think Like Real Scientists, Mathematicians, and Historians? · Q uestion: Educators and policymakers sometimes express frustration that curricula seem so far removed from the subjects they purport to cover. · For example, history curricula emphasize facts and dates.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- What Do Scientists, Mathematicians, and Other Experts Do? Obviously what experts do depends on their field of expertise. Still, there are important similarities among experts, not only in scholarly fields such as history, math, literature, and science, but also in applied fields such as medicine and banking, and in recreational pursuits such as chess, bridge, and tennis. The abilities of experts are often well illustrated in the television show House, in which the grumpy, brilliant Dr. House ( Figure 1 ) solves mysterious medical cases that leave other physicians stumped. Following is a synopsis of one of House’s cases that will help us understand how experts think. 1 
- 1.
-
-**Ideas clave:** Why Don't Students Like School 
-
- What Do Scientists, Mathematicians, and Other Experts Do? · Obviously what experts do depends on their field of expertise. · Still, there are important similarities among experts, not only in scholarly fields such as history, math, literature, and science, but also in applied fields such as medicine and banking, and in recr
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- What Is in an Expert’s Mental Toolbox? I’ve described what experts are able to do. What problem-solving abilities or specialized knowledge is required? And how can we make sure that students have whatever it takes? The mechanisms that experts rely on are a bit like the ones I’ve talked about before. Novices can get an edge on thinking through either mechanism.
-
-**Ideas clave:** Why Don't Students Like School 
-
- What Is in an Expert’s Mental Toolbox? · I’ve described what experts are able to do. · What problem-solving abilities or specialized knowledge is required?
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- How Can We Get Students to Think Like Experts? I’ve discussed the capabilities of scientists, historians, mathematicians, and experts in general.They see problems and situations in their chosen field functionally rather than at the surface level. Seeing things that way enables them to home in on important details among a flood of information, to produce solutions that are always sensible and consistent (even if they are not always right), and to show some transfer of their knowledge to related fields. In addition, many of the routine tasks that experts perform have become automatic through practice. How can we teach students to do that? Unfortunately, the answer to this question is not exactly cheering.
-
-**Ideas clave:** Why Don't Students Like School 
-
- How Can We Get Students to Think Like Experts? · I’ve discussed the capabilities of scientists, historians, mathematicians, and experts in general. · Seeing things that way enables them to home in on important details among a flood of information, to produce solutions that are always sensible and consistent (even if they are not always right), and
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Activities That Are Appropriate for Experts May at Times Be Appropriate for Students, but Not Because They Will Do Much for Students Cognitively 
-
- I’ve said that a key difference between the expert and the well-informed amateur lies in the expert’s ability to create new knowledge versus the amateur’s ability to understand concepts that others have created. Well, what happens if you ask students to create new knowledge? What will be the result if you ask them to design a scientific experiment or analyze a historical document? Nothing terrible is going to happen, obviously. The mostly likely outcome will be that they won’t do it very well; for reasons I’ve described in this chapter and in Chapter Two, a lot of background knowledge and experience are required. But a teacher might have other reasons for asking students to do these things.
-
-**Ideas clave:** Why Don't Students Like School 
-
- Activities That Are Appropriate for Experts May at Times Be Appropriate for Students, but Not Because They Will Do Much for Students Cognitively 
-
- I’ve said that a k · Well, what happens if you ask students to create new knowledge? · What will be the result if you ask them to design a scientific experiment or analyze a historical document?
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Styles and Abilities 
-
- Let’s start with a couple of questions. Suppose you’re an eleventh-grade biology teacher.You have a student, Kathy, who is really struggling. She seems to be trying her best, and you’ve spent extra time with her, but she’s still falling farther behind.You discuss the problem with some fellow teachers and learn, among other things, that Kathy is regarded as a gifted poet.Would you consider asking Kathy’s English teacher to work with you to relate poetry to her biology lessons in the hope that she will better grasp the concepts? Like Kathy, Lee is struggling in your biology class. He likes science, but he had a great deal of trouble understanding the unit on the Krebs citric acid cycle. A second possibility is that teachers might take advantage of students’ different ways of learning; for example, if Lee doesn’t understand a concept
-
-**Ideas clave:** Why Don't Students Like School 
-
- Styles and Abilities 
-
- Let’s start with a couple of questions. · Suppose you’re an eleventh-grade biology teacher. · She seems to be trying her best, and you’ve spent extra time with her, but she’s still falling farther behind.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Cognitive Styles 
-
- Some people are impulsive, others take a long time to make decisions. Some people seem to enjoy making situations complex, others relish simplicity. Table 1 shows a few of the distinctions that psychologists evaluated. As you read through the table, which shows just a fraction of the dozens of classification schemes that have been proposed, you’ll probably think that many of the schemes sound at least plausible. TABLE 1 : Some of the many distinctions among cognitive styles that have been proposed and tested by psychologists. Psychologists have a few ways to test these proposals.
-
-**Ideas clave:** Why Don't Students Like School 
-
- Cognitive Styles 
-
- Some people are impulsive, others take a long time to make decisions. · Some people seem to enjoy making situations complex, others relish simplicity. · Table 1 shows a few of the distinctions that psychologists evaluated.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Visual, Auditory, And Kinesthetic Learners 
-
- The concept of visual, auditory, and kinesthetic learners is probably familiar to you. It states that each person has a preferred way of receiving new information, through one of three senses.Vision (seeing) and audition (hearing) are clear enough, but kinesthesia might require an explanation. Kinesthesia is the sensation that tells you where your body parts are. If you were to close your eyes and I moved your arm as though you were, say, waving, you would know where your arm was even though you couldn’t see it.That information comes from special receptors in your joints, muscles, and skin.That’s kinesthesia. The visual-auditory-kinesthesia theory holds that everyone can take in new information through any of the three senses, but most of us have a preferred sense. Auditory types prefer descriptions, usually 
-
-**Ideas clave:** Why Don't Students Like School 
-
- Visual, Auditory, And Kinesthetic Learners 
-
- The concept of visual, auditory, and kinesthetic learners is probably familiar to you. · It states that each person has a preferred way of receiving new information, through one of three senses. · Kinesthesia is the sensation that tells you where your body parts are.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Abilities and Multiple Intelligences 
-
- What is mental ability? How would you characterize someone who is mentally able? A moment of reflection tells us that there are lots of tasks for which we use our minds, and most of us are good at some of them and not so good at others. In other words, we have to talk about mental abilities, not mental ability.We’ve all known people who seemed gifted with words but could barely handle the math necessary to balance a checkbook, or who could pick out a tune on any musical instrument but seemed to fall all over themselves when attempting anything athletic. But if some people are good at one mental activity (math) and poor at another (reading comprehension), then those activities must be supported by different mental processes. For more than one hundred years, psychologists have been using this logic to investigate the
-
-**Ideas clave:** Why Don't Students Like School 
-
- Abilities and Multiple Intelligences 
-
- What is mental ability? · How would you characterize someone who is mentally able? · A moment of reflection tells us that there are lots of tasks for which we use our minds, and most of us are good at some of them and not so good at others.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- 8 
- How Can I Help Slow Learners? Q uestion: It’s a cruel fact that some children just don’t seem to be cut out for schoolwork.That’s not to say they don’t have valuable skills. For example, we’ve all heard stories of business titans who fared poorly in school. But certainly we would like all students to get everything they can out of school. How can school be optimized for students who don’t have the raw intelligence that other students have? In China, Japan, and other Eastern countries, intelligence is more often viewed as malleable.
-
-**Ideas clave:** Why Don't Students Like School 
-
- 8 
- How Can I Help Slow Learners? · Q uestion: It’s a cruel fact that some children just don’t seem to be cut out for schoolwork. · For example, we’ve all heard stories of business titans who fared poorly in school.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- What Makes People Intelligent? In Chapters Five and Six I emphasized the importance of practice and hard work to expertise in cognitive tasks. Perhaps people who are intelligent are those who have had a lot of practice doing the sorts of tasks that are used to define intelligence; for whatever reason, they have been exposed to lots of complex ideas (and explanations of these ideas), have had many opportunities to reason in a supportive environment, and so on. FIGURE 3 : Two views of intelligence. On the left is Charles Darwin, commonly credited as the chief architect and promulgator of the theory of evolution. In a letter to Francis Galton, his half cousin and a brilliant polymath, Darwin said, “I have always maintained that, excepting fools, men [do] not differ much in intellect, only in zeal and hard work.” Not everyone agrees.
-
-**Ideas clave:** Why Don't Students Like School 
-
- What Makes People Intelligent? · In Chapters Five and Six I emphasized the importance of practice and hard work to expertise in cognitive tasks. · Perhaps people who are intelligent are those who have had a lot of practice doing the sorts of tasks that are used to define intelligence; for whatever reason, they have been exposed to lots of comple
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- How Beliefs About Intelligence Matter 
-
- Consider two hypothetical students. Felicia seems very concerned about whether she appears intelligent.When given a choice of tasks, she picks the easy one to be sure that she succeeds.When confronted with a challenging task, she quits after the first setback, usually protesting loudly that she is tired, or offering some other excuse. Molly, in contrast, doesn’t seem bothered by failure. Given a choice, she picks tasks that are new to her and seems to enjoy learning from them, even if they are frustrating.When a task is difficult, Molly doesn’t withdraw, she persists, trying a new strategy ( Figure 7 ). You have doubtless had Mollys and Felicias in your classroom.What accounts for the differences between them? One important factor is what they believe about intelligence.
-
-**Ideas clave:** Why Don't Students Like School 
-
- How Beliefs About Intelligence Matter 
-
- Consider two hypothetical students. · Felicia seems very concerned about whether she appears intelligent. · Molly, in contrast, doesn’t seem bothered by failure.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- 9 
- What About My Mind? Q uestion: Most of this book has focused on the minds of students. What about the minds of teachers? I have discussed a lot of findings from cognitive science thus far. All of this discussion has focused on the minds of students.What about you? Isn’t teaching a cognitive skill?
-
-**Ideas clave:** Why Don't Students Like School 
-
- 9 
- What About My Mind? · Q uestion: Most of this book has focused on the minds of students. · What about the minds of teachers?
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Teaching as a Cognitive Skill 
-
- I have described to teachers how cognitive psychologists talk about working memory: they refer to it as a mental place where we juggle several things at once and where, if we try to juggle too many things, one or more things will be dropped. Teachers always respond in the same way: “Well of course! You’ve just described my work day.” Formal experiments confirm this strong intuition; teaching is quite demanding of working memory. It’s just as evident that factual knowledge is important to teaching. In the last ten years or so, many observers have emphasized that teachers ought to have rich subject-matter knowledge, and there do seem to be some data that students of these teachers learn more, especially in middle and high school and especially in math. It’s also pretty evident that a teacher makes extensive use of procedure
-
-**Ideas clave:** Why Don't Students Like School 
-
- Teaching as a Cognitive Skill 
-
- I have described to teachers how cognitive psychologists talk about working memory: they refer to it as a mental place where we juggl · Teachers always respond in the same way: “Well of course! · You’ve just described my work day.” Formal experiments confirm this strong intuition; teaching is quite demanding of working memory.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- The Importance of Practice 
-
- Until now, I have been a bit casual in how I have talked about practice. I have made it sound synonymous with experience. Experience means you are simply engaged in the activity. Practice means you are trying to improve your performance. For example, I’m not an especially good driver, even though I’ve been driving for about thirty years. The same seems to be true for teachers too.
-
-**Ideas clave:** Why Don't Students Like School 
-
- The Importance of Practice 
-
- Until now, I have been a bit casual in how I have talked about practice. · I have made it sound synonymous with experience. · Experience means you are simply engaged in the activity.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Step 3: With Your Partner, Watch Tapes of Other Teachers 
-
- Once you have grown accustomed to watching videotapes of yourself, it’s time to include your partner. But don’t watch tapes of each other yet. Observe tapes of other teachers. The reason to watch tapes of other teachers first is to gain practice in constructive observation and commenting, and to get this practice in a non-threatening situation. Further, you will also get a sense of whether you and your partner are compatible for this work. What are you looking for on these tapes?
-
-**Ideas clave:** Why Don't Students Like School 
-
- Step 3: With Your Partner, Watch Tapes of Other Teachers 
-
- Once you have grown accustomed to watching videotapes of yourself, it’s time to include your partner. · But don’t watch tapes of each other yet. · Observe tapes of other teachers.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Step 4: With Your Partner, Watch and Comment on Each Other’s Tapes 
-
- You should not undertake this step until you feel quite comfortable watching tapes of other teachers with your partner. This means you should feel comfortable in what you say and you should feel that your partner knows how to be supportive; that is, you should feel that you wouldn’t mind if your partner’s comments were directed to you instead of to the unknown teacher on the tape. The ground rules for commenting on the tapes of other teachers apply here as well: be supportive, be concrete, and focus on behaviors. Because this process is now interactive, there are a few additional things to think about ( Figure 9 ). FIGURE 9 : When you watch and comment on videotapes of your partner teaching, it is very important to monitor both the content and the tone of what you say. The teacher whos
-
-**Ideas clave:** Why Don't Students Like School 
-
- Step 4: With Your Partner, Watch and Comment on Each Other’s Tapes 
-
- You should not undertake this step until you feel quite comfortable watching tapes of other teac · This means you should feel comfortable in what you say and you should feel that your partner knows how to be supportive; that is, you should feel that you wouldn’t mind if your partner’s comments were · The ground rules for commenting on the tapes of other teachers apply here as well: be supportive, be concrete, and focus on behaviors.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- More Technical 
-
- Ericsson, K. The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100, 363-406.This is the classic article defining practice and outlining the ways in which it is vital to the development of expertise. Cognitive load and classroom teaching:The double-edged sword of automaticity. Educational Psychologist , 42, 123-137.This article examines the role of automaticity in teaching practice, and the positive and negative consequences of its development. Research on the effects of coursework in the arts and sciences and in the foundations of education.
-
-**Ideas clave:** Why Don't Students Like School 
-
- More Technical 
-
- Ericsson, K. · A., Krampe, R.T., & Clemens,T-R. (1993). · The role of deliberate practice in the acquisition of expert performance.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- Conclusion 
- Reynolds Price, the well-known author, was one of the few celebrities on the faculty of Duke University when I studied there in the early 1980s. He strode about the campus with a long-stepped gait, often wearing an enormous, bright red scarf. He seemed not unaware that he was watched. When I took a creative writing seminar with Price, he showed the somewhat forbidding air we students expected from an artist, as well as polished manners and a stock of stories about the famous people he had met.We didn’t just respect him, we revered him. Imagine our surprise when Price once told us that any writer should proceed on the assumption that what the reader really wants to do is drop his book and turn on the television, or get a beer, or play golf. It was as though he had lit a stink bomb at a swank party.Watch television?
-
-**Ideas clave:** Why Don't Students Like School 
-
- Conclusion 
- Reynolds Price, the well-known author, was one of the few celebrities on the faculty of Duke University when I studied there in the early 1980s. · He strode about the campus with a long-stepped gait, often wearing an enormous, bright red scarf. · He seemed not unaware that he was watched.
-
-### Chapter One 1 Duncker, K. (1945). On problem-solving. Psychological Mo
-
-Why Don't Students Like School 
-
- Notes 
- Chapter One 1 Duncker, K. (1945). Psychological Monographs, 5, 113. 2 Townsend, D. Sentence comprehension:The integration of habits and rules. Cambridge, MA: MIT Press, p. 2. 3 Simon, H. Sciences of the artificial, 3rd ed. Cambridge, MA: MIT Press, p. 94.
-
-**Ideas clave:** Why Don't Students Like School 
-
- Notes 
- Chapter One 1 Duncker, K. (1945). · Psychological Monographs, 5, 113. 2 Townsend, D. · Sentence comprehension:The integration of habits and rules.
-
-### Why Don't Students Like School
-
-Why Don't Students Like School 
-
- C 
-
- Calculator procedures 
- Card problems 
- Carnegie Hall (New York City) 
- Catching-up goals 
- Cavalier poetry 
- Cheney. See also Learning styles 
- Cognitive work: appeal of; 
- automated process of; benefits of early training incorporation of; examining scientists’ and mathematicians’ process of; expert’s mental toolbox for; involved in solving discs-and-pegs puzzle; limited space in working memory impact on; providing problems requiring appropriate level of. See also Learning; Reading comprehension; Students 
- Confirmation bias 
- Context: of information; learning styles and 
- Converging/diverging cognitive style 
- Counterfeit pennies 
- Cramming 
- Critical thinking: as evaluating information; 
- factual knowledge required for; in terms of functions (deep structure). See also Abstract ideas;Thinking 
- Crossword puzzles 
- Curiosity
-
-**Ideas clave:** Why Don't Students Like School 
-
- C 
-
- Calculator procedures 
- Card problems 
- Carnegie Hall (New York City) 
- Catching-up goals 
- Cavalier poetry 
- Cheney. · See also Learning styles 
- Cognitive work: appeal of; 
- automated process of; benefits of early training incorporation of; examining scientists’ and mathematicians’ process of; expert’s mental toolbox · See also Learning; Reading comprehension; Students 
- Confirmation bias 
- Context: of information; learning styles and 
- Converging/diverging cognitive style 
- Counterfeit pennies 
- Cramming 
- Critical
-
+### Capítulo 0 — Introducción: ¿Por qué a los estudiantes no les gusta la escuela?
+
+**IDEAS CENTRALES**  
+- **Principio de relevancia cognitiva**: el cerebro prioriza información que percibe como útil para la supervivencia; por eso, los contenidos percibidos como irrelevantes generan desinterés y bajo rendimiento.  
+- **Memoria episódica vs. semántica**: la retención de hechos aislados (memoria semántica) es más frágil que la de experiencias vividas (memoria episódica); la enseñanza debe crear contextos narrativos para consolidar el aprendizaje.  
+- **Carga cognitiva**: la cantidad de información que el sistema de memoria de trabajo puede procesar simultáneamente es limitada (≈4 ± 1 elementos); la sobrecarga reduce la codificación y aumenta la frustración.  
+- **Práctica distribuida**: la repetición espaciada en el tiempo favorece la consolidación a largo plazo, mientras que la práctica masiva genera fatiga y desmotivación.  
+- **Motivación intrínseca**: el impulso interno de aprender se potencia cuando la tarea satisface necesidades de autonomía, competencia y relación (teoría de la autodeterminación).  
+- **Efecto de generación**: producir una respuesta (p. ej., explicar con sus propias palabras) mejora la retención más que la simple exposición pasiva.  
+- **Transferencia de aprendizaje**: la aplicación de conocimientos a situaciones nuevas depende de la similitud estructural entre el contexto de aprendizaje y el de aplicación; la enseñanza debe enfatizar principios subyacentes, no solo procedimientos.  
+- **Sesgo de confirmación**: los estudiantes tienden a buscar y recordar información que confirma sus creencias previas, lo que dificulta la corrección de conceptos erróneos.  
+- **Influencia del entorno socioemocional**: el estrés crónico activa la respuesta de lucha‑huida, inhibiendo la consolidación de la memoria declarativa y favoreciendo la evasión escolar.  
+
+**CÓMO APLICARLO**  
+- Diseñe lecciones que inicien con una historia o caso real que conecte el contenido con la vida cotidiana del estudiante, activando la **memoria episódica**.  
+- Divida unidades extensas en bloques de 15‑20 min con actividades de **práctica distribuida** y retroalimentación inmediata para evitar la **carga cognitiva** excesiva.  
+- Promueva la **autonomía** ofreciendo opciones de proyecto y fomentando la autorregulación mediante rúbricas claras que evidencien la **competencia** alcanzada.  
+- Integre tareas de **generación**, como resúmenes, mapas conceptuales o explicaciones a pares, para aprovechar el **efecto de generación**.  
+- Utilice ejemplos estructuralmente análogos a los problemas que enfrentarán fuera del aula, facilitando la **transferencia de aprendizaje**.  
+
+**ERRORES COMUNES**  
+- Creer que la **repetición masiva** garantiza aprendizaje sin considerar su impacto negativo en la **motivación intrínseca** y la **carga cognitiva**.  
+- Aplicar principios de laboratorio sin adaptar el contexto, ignorando que en el aula los procesos cognitivos interactúan simultáneamente, lo que invalida la **transferencia directa** de hallazgos.  
+
+**RECUPERACIÓN ACTIVA**  
+1. ¿Cómo puede una actividad de generación mejorar la retención de conceptos clave en comparación con una lectura pasiva?  
+2. ¿De qué manera la sobrecarga de la memoria de trabajo afecta la motivación de los estudiantes y qué estrategias puede implementar para mitigarlo?  
+3. ¿Por qué es importante presentar contenidos dentro de un marco narrativo para favorecer la memoria episódica y cómo lo aplicaría en su materia?
+
+→ Capítulo completo traducido: [[Willingham_Why_Students_Like_School/00_Introduction|abrir]]
+
+### Capítulo 1 — 1. ¿Por qué a los estudiantes no les gusta la escuela?
+
+**IDEAS CENTRALES**  
+- El cerebro humano está **optimizado para evitar el pensamiento**; pensar es lento, demandante y poco fiable.  
+- La **memoria** (especialmente la **memoria a largo plazo**) sustituye al pensamiento al permitir que realicemos acciones habituales sin esfuerzo consciente.  
+- Las personas son **curiosas por naturaleza**, pero la curiosidad es frágil y desaparece cuando la tarea parece demasiado fácil o imposible de resolver.  
+- Resolver un problema genera una **recompensa dopaminérgica** que produce placer; la satisfacción depende de percibir que la solución es alcanzable.  
+- La **dificultad óptima** (ni muy fácil, ni muy difícil) es esencial para mantener la motivación y el placer cognitivo.  
+- El **espacio de la memoria de trabajo** es limitado; sobrecargarlo con instrucciones múltiples o razonamientos extensos provoca abandono de la tarea.  
+- El **conocimiento previo** almacenado en la memoria a largo plazo es precondición para que la tarea sea percibida como resoluble.  
+- Un buen diseño instruccional debe **clarificar el problema**, presentar la información en pasos manejables y respetar los límites cognitivos de los estudiantes.  
+- **Variar el ritmo** y usar cambios de actividad ayuda a recuperar la atención que se pierde por sobrecarga o aburrimiento.  
+- Registrar sistemáticamente la efectividad de las actividades (diario docente) permite ajustar la **carga cognitiva** y la **dificultad** de futuros problemas.  
+
+**CÓMO APLICARLO**  
+- Diseñe actividades con una **carga cognitiva** moderada: divida problemas complejos en sub‑tareas y utilice apoyos visuales (pizarras, esquemas) para liberar espacio en la **memoria de trabajo**.  
+- Asegúrese de que los estudiantes posean los **conocimientos previos** necesarios; active la recuperación de conceptos relevantes antes de presentar el nuevo desafío.  
+- Diferencie las tareas según el nivel de competencia: asigne problemas de **dificultad óptima** a grupos o individuos, evitando que algunos se enfrenten a retos excesivamente difíciles.  
+- Introduzca **puzzles** o preguntas intrigantes justo después de que los estudiantes hayan adquirido la base conceptual, de modo que la curiosidad se convierta en una oportunidad de **aprendizaje significativo**.  
+- Monitoree la atención y, cuando note desconexión, cambie de actividad o introduzca un breve estímulo (ej. experimento breve, discusión rápida) para reactivar el foco.  
+- Mantenga un **diario docente** donde anote la percepción de dificultad, la respuesta emocional de los alumnos y los ajustes realizados; revíselo periódicamente para perfeccionar la planificación.  
+
+**ERRORES COMUNES**  
+- Sobrecargar la **memoria de trabajo** con instrucciones largas o múltiples pasos sin apoyos externos, lo que lleva a la frustración y al abandono.  
+- Presentar problemas sin asegurar que los estudiantes tengan los **conocimientos previos** necesarios, lo que convierte la tarea en percibida como imposible.  
+- Utilizar siempre actividades demasiado fáciles o excesivamente difíciles, impidiendo la generación de la **recompensa dopaminérgica** asociada al éxito.  
+- Confundir la mera curiosidad inicial con un interés sostenido; no se mantiene la motivación si el problema no está bien estructurado o es ambiguo.  
+
+**RECUPERACIÓN ACTIVA**  
+1. ¿Cómo puede usted estructurar una actividad de historia para que la **carga cognitiva** sea moderada y la **memoria de trabajo** no se sobrecargue?  
+2. ¿Qué estrategias empleará para verificar que los estudiantes poseen los **conocimientos previos** antes de introducir un nuevo concepto de matemáticas?  
+3. ¿De qué manera registrará en su **diario docente** la efectividad de una tarea diseñada con **dificultad óptima** y qué indicadores considerará?
+
+→ Capítulo completo traducido: [[Willingham_Why_Students_Like_School/01_Chapter_1_-_Why_Dont_Students_Like_School|abrir]]
+
+### Capítulo 2 — 2. ¿Cómo enseño las habilidades que necesitan si los exámenes estandarizados solo miden memorización?
+
+**IDEAS CENTRALES**  
+- El **conocimiento de fondo** es un prerequisito indispensable para que los estudiantes puedan ejercer habilidades cognitivas superiores como el análisis y la síntesis.  
+- La **memoria de trabajo** tiene capacidad limitada; el **chunking** (agrupamiento) amplía ese espacio, pero solo funciona cuando el contenido está ya almacenado en la **memoria a largo plazo**.  
+- La comprensión lectora depende de cuatro procesos vinculados al conocimiento de fondo: vocabulario, cierre de lagunas lógicas, chunking y desambiguación de enunciados.  
+- Los exámenes estandarizados que evalúan solo la **recuperación de hechos** no miden la verdadera capacidad de razonamiento; sin embargo, la ausencia de hechos impide el razonamiento eficaz.  
+- La adquisición de conocimientos genera un efecto acumulativo: cuanto más sabe el estudiante, más fácil le resulta aprender y retener nueva información, ampliando la brecha entre estudiantes con diferentes niveles de exposición.  
+- La **experiencia** y la **memoria episódica** son los principales motores del desempeño en dominios que parecen “lógicos” (ej. ajedrez, razonamiento de tarjetas), demostrando que la práctica basada en hechos supera al razonamiento abstracto puro.  
+- La exposición incidental a información (lectura por placer, conversaciones, medios) es una vía eficaz para incrementar el conocimiento de fondo sin requerir instrucción explícita.  
+- La instrucción debe integrar hechos dentro de contextos significativos y de **conceptos unificadores** de la disciplina, evitando listas desconectadas que generan aburrimiento y poca retención.  
+
+**CÓMO APLICARLO**  
+- Diseñe unidades que introduzcan hechos esenciales antes de solicitar análisis crítico; por ejemplo, presente datos históricos clave antes de pedir una evaluación de causas y consecuencias.  
+- Utilice actividades de **chunking** en clase (agrupamiento de conceptos en esquemas, mapas mentales o acrónimos) para liberar capacidad de la memoria de trabajo durante la resolución de problemas.  
+- Fomente la lectura diaria de textos informativos y de ficción a nivel apropiado, aprovechando la biblioteca escolar como recurso central para ampliar el vocabulario y el conocimiento de fondo.  
+- Incorpore preguntas abiertas que requieran que los estudiantes recuperen información previamente aprendida y la apliquen a situaciones nuevas, reforzando la conexión entre hechos y razonamiento.  
+- Evalúe la preparación de los estudiantes antes de asignar tareas de pensamiento crítico mediante breves pruebas diagnósticas de conocimientos previos.  
+
+**ERRORES COMUNES**  
+- Creer que el aprendizaje de hechos es irrelevante porque “todo está en internet”; se subestima que la recuperación automática de información depende de la **memoria a largo plazo**.  
+- Asumir que la enseñanza de habilidades de pensamiento puede ocurrir sin una base de conocimientos suficiente, lo que lleva a razonamientos superficiales y a la frustración del estudiante.  
+
+**RECUPERACIÓN ACTIVA**  
+1. ¿Cómo explica la teoría del **chunking** por qué un estudiante con conocimientos de béisbol entiende rápidamente una descripción de una jugada compleja?  
+2. ¿Qué riesgos pedagógicos implica diseñar una prueba estandarizada que evalúe únicamente la **recuperación de hechos** sin considerar la aplicación del conocimiento?  
+3. ¿De qué manera la exposición incidental a textos de calidad puede compensar la falta de instrucción explícita en ciertos contenidos de fondo?
+
+→ Capítulo completo traducido: [[Willingham_Why_Students_Like_School/02_Chapter_2_-_How_Can_I_Teach_Students_the_Skills_They_Need_When_Standar|abrir]]
+
+### Capítulo 3 — 3. ¿Por qué recuerdan todo lo de la televisión y olvidan lo que yo digo?
+
+**IDEAS CENTRALES**  
+- La **memoria es el residuo del pensamiento**: lo que el estudiante piensa durante la clase es lo que quedará almacenado en la **memoria a largo plazo**.  
+- Para que una información pase a la **memoria a largo plazo** primero debe estar en la **memoria de trabajo**; sin **atención** no hay codificación.  
+- La **repetición** por sí sola no garantiza el recuerdo; la repetición debe acompañarse de **procesamiento semántico** (pensar en el significado) para ser eficaz.  
+- La **emoción** potencia el recuerdo, pero no es condición necesaria; lo esencial es que el estudiante reflexione sobre el contenido, no que lo experimente emocionalmente.  
+- Los juicios que obligan al estudiante a evaluar el **significado** de una palabra o concepto (p. ej., “¿Es agradable o desagradable?”) duplican la retención respecto a juicios superficiales (p. ej., “¿Contiene la letra A?”).  
+- Organizar la lección como una **estructura narrativa** (las 4 C: **causalidad**, **conflicto**, **complicaciones**, **carácter**) dirige la atención hacia el significado y facilita la inferencia y el recuerdo.  
+- Cuando el contenido carece de significado aparente, los **mnemonics** (acrónimos, canciones, método de loci) proporcionan **pistas** que permiten la codificación y recuperación.  
+- El **aprendizaje por descubrimiento** es útil solo si el entorno brinda **retroalimentación inmediata**; de lo contrario, los estudiantes pueden consolidar ideas erróneas que recordarán igual que las correctas.  
+
+**CÓMO APLICARLO**  
+- Revise cada plan de lección y pregúntese: *¿En qué aspecto del contenido pensarán los estudiantes?* Ajuste la actividad para que el foco sea el **significado**.  
+- Use preguntas de valoración (p. ej., “¿Qué tan útil le parece este concepto?”) que obliguen a los alumnos a realizar **procesamiento semántico** antes de pasar a la práctica.  
+- Diseñe la clase siguiendo las **4 C**: presente la causa del tema, introduzca un conflicto que requiera solución, añada complicaciones que generen inferencias y destaque a los personajes (ideas) mediante acciones concretas.  
+- Cuando deba enseñar datos “sin sentido” (p. ej., símbolos químicos), introduzca **mnemonics** como acrónimos o rimas; verifique que los estudiantes comprendan la pista antes de usarla.  
+- En actividades de **descubrimiento**, proporcione herramientas que indiquen al instante si la hipótesis es correcta (simulaciones, software interactivo) para que la retroalimentación guíe el pensamiento correcto.  
+
+**ERRORES COMUNES**  
+- Creer que anunciar una futura prueba o una recompensa hará que los estudiantes recuerden mejor; la **intención** de recordar no sustituye al **procesamiento profundo**.  
+- Utilizar **atrapas‑atención** que no se conectan con el objetivo de la lección, lo que desvía el pensamiento hacia la novedad y no hacia el significado del contenido.  
+- Emplear **repetición mecánica** sin exigir a los alumnos que relacionen la información con conceptos previos, lo que produce una memoria frágil y de corta duración.  
+
+**RECUPERACIÓN ACTIVA**  
+1. ¿Cómo puede transformar una actividad de “medir harina” en una que obligue a los estudiantes a reflexionar sobre el **significado histórico** del alimento?  
+2. Al planear una lección de biología, ¿de qué manera incorporaría las **4 C** para que los alumnos recuerden el proceso de fotosíntesis?  
+3. ¿Qué tipo de **pista mnemonic** elegiría para que los estudiantes memoricen la lista de los primeros ocho elementos de la tabla periódica y por qué?
+
+→ Capítulo completo traducido: [[Willingham_Why_Students_Like_School/03_Chapter_3_-_Why_Do_Students_Remember_Everything_Thats_on_Television_an|abrir]]
+
+### Capítulo 4 — 4. ¿Por qué les cuesta tanto entender las ideas abstractas?
+
+**IDEAS CENTRALES**  
+- La mente humana prefiere lo **concreto** a lo **abstracto**; por eso, para comprender una regla abstracta (p. ej., *f = m·a*) necesita ejemplos tangibles.  
+- El proceso de comprensión se basa en la **analogía**: el estudiante relaciona la nueva idea con conocimientos previos que ya están en su **memoria a largo plazo**.  
+- Las **estructuras superficiales** (contexto del problema) tienden a dominar la percepción del estudiante, dificultando la detección de la **estructura profunda** que es la que realmente resuelve el problema.  
+- El **conocimiento superficial** se caracteriza por la reproducción exacta de definiciones sin capacidad de aplicar la idea en contextos distintos; el **conocimiento profundo** implica redes interconectadas que permiten transferencia.  
+- La **transferencia** ocurre cuando el estudiante reconoce la estructura profunda y la aplica a una situación con distinta estructura superficial; sin embargo, la mayoría de los alumnos fallan en este paso.  
+- La práctica deliberada de comparar múltiples ejemplos de la misma abstracción fortalece la capacidad de identificar la estructura profunda y favorece la transferencia.  
+- El aprendizaje significativo requiere que el docente haga explícita la **memoria de trabajo** del estudiante, activando los conceptos relevantes antes de presentar la nueva abstracción.  
+
+**CÓMO APLICARLO**  
+- Presente al menos **tres ejemplos familiares** de la misma regla abstracta (p. ej., cálculo de áreas de una mesa, un campo de fútbol y una hoja de papel) y pida a los alumnos que describan la **estructura profunda** que comparten.  
+- Utilice actividades de **comparación estructurada**: entregue pares de problemas con distinta superficie y solicite que los estudiantes identifiquen los componentes que corresponden a la misma **estructura profunda**.  
+- Diseñe evaluaciones que incluyan preguntas de aplicación en contextos inéditos, asegurándose de que la calificación dependa de la correcta identificación de la **estructura profunda**, no solo de la memorización de fórmulas.  
+- Antes de introducir una abstracción, active conocimientos previos mediante preguntas guiadas que traigan a la **memoria de trabajo** los conceptos concretos relacionados.  
+- Fomente la reflexión metacognitiva preguntando: “¿Qué aspecto de este problema es esencial para su solución y cuál es meramente decorativo?”  
+
+**ERRORES COMUNES**  
+- Creer que la reproducción exacta de una definición equivale a **entendimiento profundo**; en realidad suele ser **conocimiento superficial**.  
+- Seleccionar ejemplos demasiado **exóticos** o poco familiares, lo que impide que el estudiante establezca la analogía necesaria.  
+- Enfocar la instrucción únicamente en la **estructura superficial** del problema, sin señalar explícitamente la **estructura profunda** que debe ser transferida.  
+- Suponer que la transferencia ocurrirá automáticamente después de una sola exposición a la regla abstracta.  
+
+**RECUPERACIÓN ACTIVA**  
+1. ¿Cómo describiría la diferencia entre **estructura superficial** y **estructura profunda** en un problema de física que involucra energía cinética?  
+2. Proponga una secuencia de tres ejemplos concretos para enseñar la **abstracción** del concepto de “densidad” y explique cómo cada uno ayuda a identificar la **estructura profunda**.  
+3. En una prueba, un alumno resuelve correctamente una ecuación diferencial presentada como “crecimiento poblacional”, pero falla en un ítem similar presentado como “interés compuesto”. ¿Qué error de **transferencia** está evidenciando y cómo lo corregiría?
+
+→ Capítulo completo traducido: [[Willingham_Why_Students_Like_School/04_Chapter_4_-_Why_Is_It_So_Hard_for_Students_to_Understand_Abstract_Idea|abrir]]
+
+### Capítulo 5 — 5. ¿Vale la pena el ensayo repetitivo (drilling)?
+
+**IDEAS CENTRALES**  
+- La **práctica extensiva** es indispensable para lograr **automatización** de procesos mentales; sin ella, la tarea sigue consumiendo capacidad de la **memoria de trabajo**.  
+- Automatizar hechos básicos (p. ej., tablas de multiplicar, sonidos de letras) libera espacio cognitivo, permitiendo enfocarse en **razonamiento de nivel superior** y en la **comprensión profunda**.  
+- La **memoria de trabajo** tiene capacidad limitada; la única forma de “aumentarla” es **compactar** la información mediante **chunking** y mediante la **automatización** de procesos.  
+- La práctica no solo produce **competencia mínima**, sino que también protege contra el **olvido** y mejora la **transferencia** de conocimientos a situaciones nuevas.  
+- El **efecto de espaciamiento** muestra que distribuir la práctica en el tiempo produce recuerdos más duraderos y reduce la carga de estudio total.  
+- No todo requiere práctica intensiva; deben priorizarse los **componentes estructurales** o **bloques de construcción** que sirven como cimientos para habilidades más complejas.  
+- Integrar la práctica en actividades de mayor nivel (p. ej., lectura fluida mientras se practica reconocimiento de letras) aumenta la motivación y evita la monotonía.  
+
+**CÓMO APLICARLO**  
+- Diseñe sesiones de **práctica distribuida**: repita hechos de matemáticas o fonemas en intervalos crecientes (p. ej., 1 día, 3 días, 1 semana) para maximizar la retención.  
+- Utilice **tareas de automatización** dentro de contextos auténticos: mientras los estudiantes leen un texto, incluya ejercicios rápidos de reconocimiento de palabras para reforzar la fluidez lectora.  
+- Priorice la práctica de **bloques de construcción** (p. ej., tablas de multiplicar, reglas gramaticales) antes de introducir conceptos más abstractos que dependan de ellos.  
+- Emplee **evaluaciones formativas** que requieran recuperación activa de hechos (flashcards, pruebas de respuesta corta) para fortalecer la **automatización**.  
+- Varíe los formatos de práctica (juegos, problemas de aplicación, actividades colaborativas) para mantener el interés mientras se repite el mismo contenido esencial.  
+
+**ERRORES COMUNES**  
+- Creer que la práctica intensiva en una sola sesión (“cramming”) es suficiente para el dominio a largo plazo; esto produce alta performance inmediata pero rápido olvido.  
+- Practicar sin **espaciado** ni retroalimentación, lo que genera aburrimiento y reduce la probabilidad de que los procesos se vuelvan automáticos.  
+- Enfocarse en la práctica de contenidos no esenciales, desperdiciando tiempo que podría dedicarse a los **bloques de construcción** críticos.  
+
+**RECUPERACIÓN ACTIVA**  
+1. ¿Por qué la **automatización** de hechos básicos libera capacidad de la **memoria de trabajo** para tareas de mayor nivel?  
+2. Explique cómo el **efecto de espaciamiento** mejora la retención comparado con la práctica masiva.  
+3. Identifique dos ejemplos de **bloques de construcción** que deberían practicarse de forma distribuida en una clase de ciencias.
+
+→ Capítulo completo traducido: [[Willingham_Why_Students_Like_School/05_Chapter_5_-_Is_Drilling_Worth_It|abrir]]
+
+### Capítulo 6 — 6. ¿Cuál es el secreto para que piensen como científicos, matemáticos e historiadores reales?
+
+**IDEAS CENTRALES**  
+- La **cognición temprana** difiere cualitativamente de la **cognición tardía**: los novatos organizan la información de forma superficial, mientras que los expertos la estructuran por funciones y principios subyacentes.  
+- El **conocimiento de fondo** permite “agrupaciones” o **chunking** que liberan espacio en la **memoria de trabajo**, facilitando el razonamiento complejo.  
+- Los expertos emplean **pensamiento abstracto**: categorizan problemas por principios (p. ej., conservación de energía) y no por rasgos superficiales.  
+- La **automatización** de procedimientos rutinarios (p. ej., suturar, contar puntos en bridge) reduce la carga cognitiva y deja capacidad para la generación de hipótesis.  
+- El **auto‑diálogo** de los expertos incluye generación y prueba de hipótesis, no solo narración de pasos, lo que potencia la metacognición.  
+- La **transferencia** se logra porque la representación mental es abstracta; un historiador puede analizar documentos fuera de su especialidad con razonamiento experto.  
+- La **práctica deliberada** es el único camino comprobado hacia la expertise; la **regla de los diez años** indica que se requieren aproximadamente una década de práctica intensiva para alcanzar nivel experto.  
+- En el aula, la meta realista para los estudiantes es la **comprensión profunda** de conocimientos creados por expertos, no la **creación** de nuevo conocimiento.
+
+**CÓMO APLICARLO**  
+- Diseñe actividades que fortalezcan el **conocimiento de fondo** mediante lecturas dirigidas y análisis de casos, antes de solicitar a los estudiantes que realicen experimentos abiertos.  
+- Introduzca ejercicios de **chunking** en matemáticas y ciencias, p. ej., pedir a los alumnos que agrupen variables según relaciones funcionales antes de resolver problemas.  
+- Fomente el **auto‑diálogo** estructurado: al iniciar una tarea, solicite a los estudiantes que verbalicen su hipótesis y los criterios de evaluación.  
+- Planifique sesiones de **práctica deliberada** con retroalimentación inmediata, enfocándose en habilidades específicas (p. ej., interpretación de fuentes históricas).  
+- Utilice la **transferencia** como objetivo explícito: después de aprender un concepto, pida a los alumnos aplicarlo a un dominio distinto (p. ej., usar principios de conservación de energía en biología).  
+
+**ERRORES COMUNES**  
+- Creer que los estudiantes pueden **pensar como expertos** sin haber desarrollado primero el **conocimiento de fondo** y la **automatización** necesarios.  
+- Implementar la **práctica deliberada** sin retroalimentación cualitativa, lo que lleva a la consolidación de hábitos incorrectos.  
+- Exigir **creación de conocimiento** (diseñar experimentos originales) cuando la capacidad cognitiva del alumno aún está en fase de **comprensión** y no de generación.  
+
+**RECUPERACIÓN ACTIVA**  
+1. ¿Cómo explica la diferencia entre **chunking** basado en posición y en función en el experimento de ajedrez, y qué implicaciones tiene para la enseñanza de la resolución de problemas?  
+2. Describa una estrategia de **práctica deliberada** que incluya retroalimentación para mejorar la habilidad de los estudiantes en la interpretación de fuentes históricas.  
+3. ¿Por qué el **auto‑diálogo** de un experto es más efectivo que la simple narración de pasos, y cómo puede incorporarse este proceso en una clase de física?
+
+→ Capítulo completo traducido: [[Willingham_Why_Students_Like_School/06_Chapter_6_-_Whats_the_Secret_to_Getting_Students_to_Think_Like_Real|abrir]]
+
+### Capítulo 7 — 7. ¿Cómo ajusto mi enseñanza a distintos tipos de estudiantes?
+
+**IDEAS CENTRALES**  
+- La evidencia empírica no respalda la existencia de **estilos cognitivos** estables que determinen qué método de enseñanza funciona mejor para cada alumno.  
+- Las diferencias entre estudiantes se explican mejor por **capacidades cognitivas** (p. ej., habilidad matemática vs. verbal) y por la cantidad de **conocimiento previo** que poseen.  
+- La teoría de los **aprendices visual‑auditivo‑kinestésico** falla porque la coincidencia entre modalidad de presentación y preferencia del alumno no mejora la retención de la **memoria semántica**.  
+- Las **inteligencias múltiples** de Gardner no son habilidades independientes; no se puede enseñar una materia exclusivamente a través de la supuesta inteligencia dominante del estudiante.  
+- La **diferenciación instruccional** sigue siendo útil, pero debe basarse en la experiencia del docente y en datos de desempeño, no en categorías de estilo.  
+- Introducir variaciones en la forma de presentar el contenido (visual, auditiva, kinestésica) es valioso **para estimular la atención**, no para “acomodar” estilos.  
+- El **sesgo de confirmación** lleva a los docentes a interpretar éxitos aislados como evidencia de un estilo, reforzando creencias erróneas.  
+- El aprendizaje significativo depende de activar y ampliar el **conocimiento previo** del estudiante, más que de adaptar la modalidad sensorial.  
+
+**CÓMO APLICARLO**  
+- Planifique lecciones que incluyan al menos dos modalidades (p. ej., diagramas + explicación oral) para reforzar la **memoria semántica** y mantener la atención.  
+- Use evaluaciones diagnósticas para identificar déficits de **capacidades cognitivas** y diseñe apoyos específicos (tutorías, materiales de práctica) en lugar de intentar “cambiar” el estilo del alumno.  
+- Al presentar un nuevo concepto, active el **conocimiento previo** mediante preguntas abiertas o breves discusiones antes de la instrucción formal.  
+- Varíe la estructura cognitiva de las actividades (deductiva vs. inductiva, analítica vs. creativa) siguiendo la tabla de distinciones de estilos, pero aplíquela a **todo el grupo**, no a individuos.  
+- Evite etiquetar a los estudiantes como “visual” o “kinestésico”; en su lugar, describa sus fortalezas en términos de **habilidades específicas** (p. ej., buena visualización espacial).  
+
+**ERRORES COMUNES**  
+- Creer que una única sesión de enseñanza “a la medida” de un estilo cognitivo producirá mejoras duraderas en el aprendizaje.  
+- Sustituir una **capacidad cognitiva** deficiente por una fortaleza en otra área (p. ej., usar la poesía para enseñar biología) sin proporcionar instrucción directa en la materia objetivo.  
+- Adoptar la teoría de **inteligencias múltiples** como guía curricular, asignando materias a “inteligencias” específicas sin evidencia de transferencia de habilidades.  
+- Ignorar el papel del **conocimiento previo** y atribuir dificultades exclusivamente a la falta de coincidencia de estilo.  
+
+**RECUPERACIÓN ACTIVA**  
+1. ¿Qué evidencia empírica contradice la hipótesis de que coincidir la modalidad de enseñanza con el estilo cognitivo del alumno mejora la retención?  
+2. Explique cómo puede usar la variación de modalidades en una lección para mantener la atención sin etiquetar a los estudiantes por estilo.  
+3. ¿Por qué es insuficiente intentar compensar una debilidad en una **capacidad cognitiva** mediante una fortaleza en otra, según el capítulo?
+
+→ Capítulo completo traducido: [[Willingham_Why_Students_Like_School/07_Chapter_7_-_How_Should_I_Adjust_My_Teaching_for_Different_Types_of_Lea|abrir]]
+
+### Capítulo 8 — 8. ¿Cómo puedo ayudar a los estudiantes con ritmo lento?
+
+**IDEAS CENTRALES**  
+- La creencia de que la **inteligencia es fija** (mentalidad fija) lleva a que los estudiantes eviten el esfuerzo y elijan tareas fáciles para proteger su auto‑imagen.  
+- La **inteligencia maleable** (mentalidad de crecimiento) sostiene que la capacidad cognitiva puede incrementarse mediante práctica sostenida y estrategias de aprendizaje.  
+- El constructo de **g (inteligencia general)** explica la correlación positiva entre distintas pruebas académicas, aunque coexisten inteligencias específicas como la verbal y la matemática.  
+- Los estudios de gemelos y el **efecto Flynn** demuestran que factores ambientales pueden producir aumentos sustanciales en el coeficiente intelectual a lo largo de generaciones.  
+- El **elogio al esfuerzo** (praise for process) fomenta la mentalidad de crecimiento, mientras que elogiar la habilidad fija refuerza la visión estática de la inteligencia.  
+- La percepción del **fracaso como aprendizaje** reduce la ansiedad y aumenta la persistencia frente a tareas desafiantes.  
+- Los estudiantes lentos no carecen de potencial cognitivo; su rezago se debe a diferencias en **conocimientos previos, motivación y habilidades de estudio**.  
+- Establecer **expectativas altas y confianza** por parte del docente mejora la auto‑eficacia y el rendimiento académico de los alumnos con bajo rendimiento.  
+
+**CÓMO APLICARLO**  
+- Elogie siempre el **esfuerzo, la estrategia y la persistencia** (p. ej., “Se nota que dedicó tiempo a resolver ese problema”) y evite comentarios que atribuyan el éxito a la “inteligencia”.  
+- Enseñe explícitamente que el **fracaso es una señal de aprendizaje**, modelando actitudes positivas cuando usted mismo comete errores en clase.  
+- Diseñe actividades que estén ligeramente **por encima del nivel actual** del estudiante, proporcionando apoyo scaffolding y retroalimentación inmediata.  
+- Implemente instrucción explícita en **habilidades de estudio** (planificación, organización, técnicas de repaso) y verifique su dominio antes de asignar tareas autónomas.  
+- Fije **metas intermedias concretas** (p. ej., “Dedicar 20 min diarios a la lectura de texto X”) y monitoree el progreso con registros de tiempo y auto‑evaluaciones.  
+
+**ERRORES COMUNES**  
+- Alabar la “inteligencia” del alumno, lo que refuerza la mentalidad fija y desincentiva el esfuerzo futuro.  
+- Suponer que la lentitud académica es **innata e inalterable**, ignorando la influencia de factores ambientales y de instrucción.  
+- Subestimar la necesidad de **enseñar habilidades de estudio** a los estudiantes lentos, asumiendo que ya las poseen.  
+- Aplicar el mismo ritmo y nivel de dificultad a todos los alumnos, sin considerar las brechas de conocimientos previos.  
+
+**RECUPERACIÓN ACTIVA**  
+1. ¿Cómo reformularía un elogio que originalmente dice “Eres muy inteligente” para que promueva una mentalidad de crecimiento?  
+2. Identifique tres estrategias concretas para enseñar a un estudiante lento a **planificar su tiempo de estudio** de manera eficaz.  
+3. Explique por qué el **efecto Flynn** contradice la idea de que la inteligencia está determinada exclusivamente por la genética.
+
+→ Capítulo completo traducido: [[Willingham_Why_Students_Like_School/08_Chapter_8_-_How_Can_I_Help_Slow_Learners|abrir]]
+
+### Capítulo 9 — 9. ¿Qué hay de mi propia mente?
+
+**IDEAS CENTRALES**  
+- La enseñanza es una **habilidad cognitiva** que depende de la misma arquitectura mental que los estudiantes: **memoria de trabajo**, conocimientos declarativos y procedimientos almacenados en la **memoria a largo plazo**.  
+- Un **espacio limitado en la memoria de trabajo** obliga al docente a automatizar rutinas y a reducir la carga cognitiva durante la lección.  
+- El **conocimiento de contenido** por sí solo es insuficiente; se requiere **conocimiento pedagógico del contenido** (p.ej., ideas erróneas típicas de los alumnos sobre la pendiente).  
+- La **práctica deliberada** es esencial para la mejora docente: implica metas claras, retroalimentación experta y actividades fuera del aula que fortalezcan la habilidad.  
+- La **retroalimentación informativa** debe provenir de observadores competentes; la retroalimentación de los estudiantes suele ser vaga y no diagnóstica.  
+- El **sesgo de auto‑servicio** dificulta la auto‑evaluación objetiva; observarse a través de otro docente ayuda a superar este sesgo.  
+- La **videograbación** del aula permite “pausar” la enseñanza y observar comportamientos específicos sin la presión del momento real.  
+- Comentarios de pares deben ser **constructivos, concretos y basados en conductas observables**, no en inferencias de rasgos personales.  
+- Un **diario reflexivo** y grupos de discusión docente facilitan la consolidación de aprendizajes y el apoyo social necesario para la práctica continua.  
+- La **observación externa de niños fuera del contexto escolar** amplía la comprensión de la motivación y la interacción social, enriqueciendo el repertorio pedagógico.  
+
+**CÓMO APLICARLO**  
+- Reserve tiempo semanal para **grabar una lección** y, posteriormente, revísela con una hoja de observación centrada en una meta concreta (p.ej., manejo de preguntas).  
+- Forme un **pareja de práctica docente** con quien intercambie videos y ofrezca retroalimentación siguiendo los criterios de ser **apoyadora, concreta y conductual**.  
+- Integre al menos una **actividad de práctica deliberada** mensual que no sea la enseñanza directa, como analizar ejemplos de errores comunes en la materia o estudiar protocolos de manejo de conflictos.  
+- Mantenga un **diario de enseñanza** donde anote objetivos, percepciones de la lección y patrones emergentes; revíselo cada dos semanas para identificar áreas de mejora.  
+- Organice un **grupo de discusión docente** bimensual con un propósito definido (p.ej., compartir estrategias para reducir la carga cognitiva en clases de matemáticas).  
+
+**ERRORES COMUNES**  
+- Confundir **experiencia** con **práctica deliberada**; simplemente impartir clases sin metas de mejora no genera progreso significativo.  
+- Depender exclusivamente de la **retroalimentación de los estudiantes**, que suele ser general y no señala conductas específicas a corregir.  
+- Realizar comentarios de pares que sean **vagos o centrados en rasgos personales** (ej. “es un buen profesor”) en lugar de describir acciones observables.  
+- Ignorar el **sesgo de auto‑servicio**, creyendo que los resultados positivos son siempre mérito propio y los negativos culpa externa.  
+
+**RECUPERACIÓN ACTIVA**  
+1. ¿Cómo diferenciaría usted la **práctica deliberada** de la mera **experiencia docente** al planear su desarrollo profesional?  
+2. Describa tres criterios que debe cumplir una retroalimentación de pares para ser considerada **informativa** y **constructiva**.  
+3. ¿Qué pasos seguiría para diseñar una sesión de observación fuera del aula que le ayude a comprender mejor la motivación de sus estudiantes?
+
+→ Capítulo completo traducido: [[Willingham_Why_Students_Like_School/09_Chapter_9_-_What_About_My_Mind|abrir]]
+
+### Capítulo 10 — Conclusión
+
+**IDEAS CENTRALES**  
+- **Persuasión docente**: enseñar es convencer al estudiante de continuar su “viaje mental”, de la misma forma que un escritor persuade al lector para que no deje el libro.  
+- **Conocer al estudiante**: anticipar la reacción del alumno requiere información sobre su personalidad, intereses, sesgos y conocimientos previos; el viejo consejo “conozca a su audiencia” es fundamental.  
+- **Nueve principios cognitivos**: el libro selecciona nueve leyes (ej. dificultad media, contextualización, práctica deliberada, similitud entre estudiantes, plasticidad de la inteligencia, etc.) que son válidas en cualquier contexto y tienen impacto medible en el aprendizaje.  
+- **Relación esfuerzo‑recompensa**: cuando la carga cognitiva supera la percepción de beneficio, el estudiante abandona la tarea; el docente debe equilibrar la dificultad para maximizar la recompensa percibida.  
+- **Equilibrio multidimensional**: el aula es simultáneamente cognitiva, emocional, social y motivacional; aplicar una regla cognitiva sin considerar los demás dominios puede generar conflictos.  
+- **Principios como límites predictivos**: al igual que la física delimita el diseño de un puente, los principios cognitivos delimitan la probabilidad de éxito del aprendizaje, sin dictar una receta única.  
+- **Práctica docente**: la enseñanza, como la expertise, mejora con la práctica deliberada y la retroalimentación; no es suficiente conocer la teoría, es necesario entrenarse.  
+- **Importancia de la atención**: la atención es condición previa pero no suficiente; el docente debe diseñar estímulos que capten y mantengan la atención, reconociendo que la mente tiende a “autopilot” cuando la tarea es poco atractiva.  
+
+**CÓMO APLICARLO**  
+- Realice una evaluación diagnóstica breve (encuesta de intereses, conocimientos previos y estilos de aprendizaje) antes de iniciar una unidad para adaptar ejemplos y nivel de dificultad.  
+- Diseñe actividades con **dificultad intermedia** y ofrezca retroalimentación inmediata que destaque el progreso, incrementando la relación esfuerzo‑recompensa.  
+- Integre **práctica deliberada**: asignaciones estructuradas que requieran repetición focalizada y auto‑corrección, registrando el desempeño en un diario docente.  
+- Utilice técnicas de **captación de atención** (preguntas provocadoras, analogías relevantes, breves videos) al inicio de cada clase para evitar el “autopilot” del estudiante.  
+- Balancee los requerimientos cognitivos con apoyos motivacionales (reconocimiento de esfuerzo, establecimiento de metas alcanzables) para evitar conflictos entre la exigencia mental y la motivación.  
+
+**ERRORES COMUNES**  
+- Creer que basta con **conocer el contenido** y que la atención se mantendrá automáticamente; la atención depende también de la relevancia percibida y del contexto emocional.  
+- Aplicar los principios cognitivos de forma **rigida** sin adaptarlos a la diversidad de estilos y contextos del aula, lo que genera frustración y desinterés.  
+- Sobre‑estimar la **capacidad de autorregulación** del estudiante, asumiendo que la intención de prestar atención garantiza el aprendizaje efectivo.  
+
+**RECUPERACIÓN ACTIVA**  
+1. ¿Cómo puede una actividad de clase equilibrar la dificultad media con una recompensa percibida para evitar que el estudiante abandone la tarea?  
+2. ¿Qué información del estudiante es indispensable para anticipar su reacción a un nuevo concepto y cómo la recopila usted de forma práctica?  
+3. ¿De qué manera la práctica deliberada de la enseñanza se puede medir y mejorar mediante un diario docente?
+
+→ Capítulo completo traducido: [[Willingham_Why_Students_Like_School/10_Conclusion|abrir]]
