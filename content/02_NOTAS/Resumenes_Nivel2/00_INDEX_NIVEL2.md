@@ -18,3 +18,8 @@ Nivel 2 = análisis profundo por capítulos en ESPAÑOL de los 5 libros en estud
 
 ---
 Generado el 03-oct-2026 desde los capítulos traducidos de Libros_Traducidos. Cada sección N2 enlaza a su capítulo completo traducido.
+
+
+---
+
+**Lectura completa (Nivel 3):** los capítulos íntegros traducidos por libro están en [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|Nivel 3 — Willingham]]. Cada sección del resumen N2 enlaza a su capítulo completo.
