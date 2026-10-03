@@ -1,4 +1,16 @@
-# Why Don’t Students Like School (2e) — D. Willingham
+---
+libro: "Why Don't Students Like School (2.ª ed.)"
+autor: "Daniel T. Willingham"
+capitulo: 10
+titulo: "Conclusión y resumen de los principios"
+nivel: 3
+generado: 2026-10-03
+tags: [N3, Willingham, cognicion-aplicada]
+---
+
+# Capítulo 10 — Conclusión y resumen de los principios
+
+> **Nivel 3 · texto completo del capítulo traducido.** Anterior: [[Resumenes_Nivel2/Why_Don_t_Students_Like_School_2e|Resumen Nivel 2]] · [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|Índice N3]]
 
 ## Conclusion
 Conclusión
@@ -1573,3 +1585,7 @@ Ken Hurst © Fotolia
 **Figura 9.10, mujer escribiendo en su diario:**  
 
 Darren Baker © Fotolia
+
+---
+
+**Navegación:** [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|← Índice N3]] · [[Resumenes_Nivel2/Why_Don_t_Students_Like_School_2e|Resumen Nivel 2 ↑]]

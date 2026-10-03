@@ -1,6 +1,16 @@
-# Why Don’t Students Like School (2e) — D. Willingham
+---
+libro: "Why Don't Students Like School (2.ª ed.)"
+autor: "Daniel T. Willingham"
+capitulo: 9
+titulo: "9. ¿Qué hay de mi propia mente?"
+nivel: 3
+generado: 2026-10-03
+tags: [N3, Willingham, cognicion-aplicada]
+---
 
-## Chapter 9 - What About My Mind?
+# Capítulo 9 — 9. ¿Qué hay de mi propia mente?
+
+> **Nivel 3 · texto completo del capítulo traducido.** Anterior: [[Resumenes_Nivel2/Why_Don_t_Students_Like_School_2e|Resumen Nivel 2]] · [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|Índice N3]]
 
 # ¿Por qué a los estudiantes no les gusta la escuela?
 
@@ -248,3 +258,7 @@ Hanushek, E. A., Kain, J. F., O’Brien, D. M., & Rivkin, S. G. (2005). 
 Roese, N. J., & Olson, J. M. (2007). **Mejor, más fuerte, más rápido: juicio interesadista, regulación afectiva y la hipótesis de la vigilancia óptima**. *Perspectives on Psychological Science*, 2, 124‑141. Una revisión del sesgo interesadista que lo sitúa en una perspectiva más amplia de la emoción.  
 
 http://www.myteachingpartner.net. **My Teaching Partner** es un proyecto que ayuda a los docentes a ser más reflexivos acerca de su práctica. Consiste en grabar la clase y luego conversar con un consultor. Este proyecto está basado en mi institución, la Universidad de Virginia, y las directrices del proyecto proporcionaron gran parte del marco metodológico descrito aquí.
+
+---
+
+**Navegación:** [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|← Índice N3]] · [[Resumenes_Nivel2/Why_Don_t_Students_Like_School_2e|Resumen Nivel 2 ↑]]

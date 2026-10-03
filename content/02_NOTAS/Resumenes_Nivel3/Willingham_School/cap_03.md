@@ -1,6 +1,16 @@
-# Why Don’t Students Like School (2e) — D. Willingham
+---
+libro: "Why Don't Students Like School (2.ª ed.)"
+autor: "Daniel T. Willingham"
+capitulo: 3
+titulo: "3. ¿Por qué recuerdan todo lo de la televisión y olvidan lo que yo digo?"
+nivel: 3
+generado: 2026-10-03
+tags: [N3, Willingham, cognicion-aplicada]
+---
 
+# Capítulo 3 — 3. ¿Por qué recuerdan todo lo de la televisión y olvidan lo que yo digo?
 
+> **Nivel 3 · texto completo del capítulo traducido.** Anterior: [[Resumenes_Nivel2/Why_Don_t_Students_Like_School_2e|Resumen Nivel 2]] · [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|Índice N3]]
 
 ## Capítulo 3 - ¿Por qué los estudiantes recuerdan todo lo que está en la televisión y olvidan ...
 
@@ -154,8 +164,6 @@ En tercer lugar, las historias son fáciles de recordar. Hay al menos dos factor
 
 **FIGURA 9:** El exjefe de Estado de la Unión Soviética, Mijaíl Gorbachov, era bien conocido por los periodistas por dar respuestas aburridas porque eran exhaustivas. En una sesión de preguntas y respuestas de 1990 con una docena de miembros del Congreso de EE. UU., Gorbachov respondió la primera pregunta (sobre la economía soviética) con un monólogo de veintiocho minutos que cubría todos los aspectos de los derechos de propiedad, mientras los senadores se veían “hipnotizados” o “cansados”. El senador Robert Dole comentó más tarde: “Él sí tiene respuestas largas”.6
 
-## Why Don't Students Like School
-
 ## Putting Story Structure to Work
 
 Ahora, todo esto sobre películas ha sido un interludio entretenido (al menos eso espero), pero ¿qué tiene que ver con el aula? Mi intención aquí no es sugerir que simplemente cuentes historias, aunque no hay nada de malo en hacerlo. Más bien, propongo algo un paso alejado de eso: estructurar tus lecciones como se estructuran las historias, usando las cuatro C: causalidad, conflicto, complicaciones y carácter. Esto no significa que debas hablar la mayor parte del tiempo. Se pueden emplear trabajos en grupos pequeños, proyectos o cualquier otro método. La estructura de la historia se aplica a la forma en que organizas el material que invitas a tus estudiantes a pensar, no a los métodos que utilizas para enseñar dicho material.
@@ -224,13 +232,9 @@ La dificultad con las canciones es que son más difíciles de generar que los de
 
 Permíteme resumir lo que he dicho en este capítulo. Si estamos de acuerdo en que el conocimiento previo es importante, entonces debemos reflexionar cuidadosamente sobre cómo los estudiantes pueden adquirir ese conocimiento previo, es decir, cómo funciona el aprendizaje. El aprendizaje está influenciado por muchos factores, pero un factor supera a los demás: los estudiantes recuerdan lo que piensan. Ese principio subraya la importancia de lograr que los estudiantes piensen en lo correcto en el momento adecuado. Usualmente queremos que los estudiantes comprendan lo que significan las cosas, lo cual establece la agenda de un plan de lección. ¿Cómo podemos asegurar que los estudiantes piensen en el significado? Ofrecí una sugerencia, que es usar la estructura de una historia. Las historias se comprenden y recuerdan fácilmente, y son interesantes; pero no se puede lograr que los estudiantes piensen en el significado si el material no tiene significado. En ese caso, puede ser apropiado usar un dispositivo mnemónico.
 
-## Why Don't Students Like School
-
 ### Implications for the Classroom
 
 Pensar en el significado ayuda a la memoria. ¿Cómo pueden los docentes asegurar que los estudiantes piensen en el significado en el aula? Aquí hay algunas sugerencias prácticas.
-
-## Why Don't Students Like School
 
 **Revisar cada plan de lección en términos de lo que el estudiante probablemente pensará**
 
@@ -246,8 +250,6 @@ El problema fue que los estudiantes cambiaron la tarea de “aprender sobre la G
 Aún había mucho entusiasmo en el salón, pero se dirigía a usar animaciones, integrar videos, buscar fuentes inusuales, etc. En ese momento el maestro sintió que ya era demasiado tarde para pedir a todos los grupos que cambiaran, así que pasó gran parte del resto de la semana insistiendo a los estudiantes para asegurarse de que sus presentaciones tuvieran contenido, no solo “flash”.  
 
 Esta historia ilustra una de las razones por las que los maestros experimentados son tan buenos. Evidentemente, este maestro no permitió que los estudiantes usaran PowerPoint al año siguiente, o quizá encontró una forma de mantenerlos enfocados en la tarea. Antes de haber acumulado esas experiencias, lo mejor es reflexionar cuidadosamente sobre cómo reaccionarán tus estudiantes ante una asignación y qué les hará pensar.  
-
-## Why Don't Students Like School  
 
 ## Think Carefully About Attention Grabbers  
 
@@ -318,13 +320,9 @@ Como he enfatizado, estructurar una planificación de lección alrededor del con
 
 En el capítulo anterior argumenté que los estudiantes deben poseer conocimientos previos para pensar críticamente. En este capítulo discutí cómo funciona la memoria, con la esperanza de que, al comprender esto, podamos maximizar la probabilidad de que los estudiantes adquieran esos conocimientos previos; gran parte de la respuesta a cómo podemos lograrlo estuvo relacionada con reflexionar sobre el significado. Pero, ¿qué ocurre si los estudiantes no comprenden el significado? En el próximo capítulo analizo por qué es difícil para los estudiantes comprender el significado de material complejo y qué puede hacer para ayudar.
 
-## Why Don't Students Like School
-
 **Nota**
 
 * Inventé esta estadística.
-
-## Why Don't Students Like School
 
 ### Bibliografía
 
@@ -343,3 +341,7 @@ Kim, S‑i. (1999). Inferencia de puente causal: una causa de la interesabilidad
 Markman, A. B. (2002). Representación del conocimiento. En H. D. Pashler y D. L. Medin (Eds.), *Handbook de Steven de psicología experimental*, Vol. 2: Memoria y procesos cognitivos. (3.ª ed., pp. 165‑208). Hoboken, NJ: Wiley. Un tratamiento exhaustivo de cómo se representan los recuerdos en la mente y de lo que realmente significa la representación.  
 
 Meredith, G. M. (1969). Dimensiones de la evaluación profesor‑curso. *Journal of Psychology: Interdisciplinary and Applied*, 73, 27‑32. Un artículo que muestra que las actitudes de los estudiantes universitarios hacia los profesores se determinan mayormente por si el profesor está organizado y parece amable. No todos los estudios sobre este tema lo desglosan exactamente de esta manera, pero este es el resultado típico.
+
+---
+
+**Navegación:** [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|← Índice N3]] · [[Resumenes_Nivel2/Why_Don_t_Students_Like_School_2e|Resumen Nivel 2 ↑]]

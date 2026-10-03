@@ -1,6 +1,16 @@
-# Why Don’t Students Like School (2e) — D. Willingham
+---
+libro: "Why Don't Students Like School (2.ª ed.)"
+autor: "Daniel T. Willingham"
+capitulo: 7
+titulo: "7. ¿Cómo ajusto mi enseñanza a distintos tipos de estudiantes?"
+nivel: 3
+generado: 2026-10-03
+tags: [N3, Willingham, cognicion-aplicada]
+---
 
-## Chapter 7 - How Should I Adjust My Teaching for Different Types of Learners?
+# Capítulo 7 — 7. ¿Cómo ajusto mi enseñanza a distintos tipos de estudiantes?
+
+> **Nivel 3 · texto completo del capítulo traducido.** Anterior: [[Resumenes_Nivel2/Why_Don_t_Students_Like_School_2e|Resumen Nivel 2]] · [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|Índice N3]]
 
 # ¿Por qué a los estudiantes no les gusta la escuela?
 
@@ -104,8 +114,6 @@ Anteriormente tracé una distinción importante entre estilos y habilidades. En 
 
 **FIGURE 5:** Cuando nació mi primera hija, una de las enfermeras me dijo: «Oh, va a estar loco aquí en unos días. Se acerca luna llena, ¿sabes?». Mucha gente cree que ocurren todo tipo de cosas interesantes durante la luna llena: aumenta la tasa de homicidios, se incrementan las admisiones a urgencias, así como las llamadas a la policía y a los bomberos, y nacen más bebés, entre otras cosas. En realidad, esta hipótesis ha sido examinada exhaustivamente y es incorrecta. ¿Por qué la gente la cree? Un factor es el sesgo de confirmación. Cuando hay luna llena y la sala de partos está ocupada, la enfermera lo nota y lo recuerda. Cuando la sala de partos está ocupada y no hay luna llena, no le presta atención.  
 
-# Why Don't Students Like School  
-
 # Abilities and Multiple Intelligences  
 
 ¿Qué es la capacidad mental? ¿Cómo caracterizarías a una persona mentalmente capaz? Un momento de reflexión nos dice que existen muchas tareas para las que usamos nuestra mente, y la mayoría de nosotros somos buenos en algunas y no tanto en otras. En otras palabras, debemos hablar de capacidades mentales, no de capacidad mental. Todos hemos conocido a personas que parecían dotadas de palabras pero apenas podían manejar los cálculos necesarios para llevar la contabilidad, o que podían tocar una melodía en cualquier instrumento musical pero parecían tropezar en cualquier actividad atlética.
@@ -184,13 +192,9 @@ Las teorías de estilos de aprendizaje no resultan de gran ayuda cuando se aplic
 
 Las distinciones en la Tabla 1 ofrecen varias formas interesantes de pensar en los planes de clase: ¿Desea que los estudiantes razonen deductivamente durante una lección o que asocien libremente de manera creativa? ¿Deben enfocarse en las similitudes entre los conceptos que encuentran o en los detalles que diferencian esos conceptos? La Tabla 1 puede ayudarle a centrarse en lo que espera que sus estudiantes aprendan de una lección y en cómo ayudarles a lograrlo.  
 
-## Why Don't Students Like School  
-
 ### Change Promotes Attention  
 
 Todo docente sabe que el cambio durante una lección revitaliza a los estudiantes y vuelve a enfocar su atención. Si el docente ha estado hablando mucho, algo visual (un video o un mapa) representa un cambio bienvenido. La Tabla 1 brinda varias maneras de considerar el cambio a lo largo de una lección. Si el trabajo de los estudiantes ha demandado mucho razonamiento lógico‑deductivo, quizá sea necesario un ejercicio que requiera un pensamiento amplio y asociativo. Si su trabajo ha exigido respuestas rápidas, tal vez deban realizar otra tarea que implique respuestas reflexivas y medidas. En lugar de individualizar los procesos mentales requeridos para cada estudiante, ofrezca a todos sus alumnos práctica en todos estos procesos y vea las transiciones como una oportunidad para que cada estudiante comience de nuevo y reoriente sus energías mentales.  
-
-## Why Don't Students Like School  
 
 ### There Is Value in Every Child, Even If He or She Is Not “Smart in Some Way”  
 
@@ -199,8 +203,6 @@ Estoy dispuesto a apostar a que ha escuchado a alguien decir: “Cada estudiante
 En segundo lugar, no es necesariamente cierto que todo niño sea inteligente de alguna forma. El porcentaje exacto de niños “inteligentes” dependería de cuántas inteligencias se definan y de si “inteligente” significa “el 10 % superior” o “el 50 % superior”, etc. En realidad, siempre habrá algunos niños que, de hecho, no posean un talento destacado en ninguna de las inteligencias. En mi experiencia, decirles a los niños que poseen una habilidad que no tienen rara vez funciona. (Si un niño se deja engañar brevemente, sus compañeros suelen estar felices de hacerle caer la realidad sobre la cabeza.)  
 
 En tercer lugar, por razones que describo en el capítulo siguiente, nunca es inteligente decirle a un niño que es inteligente. Créalo o no, hacerlo lo vuelve menos inteligente. En serio.  
-
-## Why Don't Students Like School  
 
 ### Don’t Worry—and Save Your Money  
 
@@ -265,3 +267,7 @@ Nickerson, R. S. (1998). *Sesgo de confirmación: Un fenómeno ubicuo en muchas 
 Rayner, S., & Riding, R. (1997). Hacia una categorización de los estilos cognitivos y los estilos de aprendizaje. *Educational Psychology*, 17, 5‑27. Un resumen exhaustivo y una categorización de diferentes teorías de estilos cognitivos.  
 
 Rotton, J., & Kelly, I.W. (1985). Mucho alboroto por la luna llena: un meta‑análisis de la investigación sobre la lunaticidad. *Psychological Bulletin*, 97, 296‑306. Este artículo revisa treinta y siete estudios que buscaron una relación entre el ciclo lunar y diversos comportamientos (como alteraciones psiquiátricas, homicidios y llamadas de crisis). No se observa ninguna relación.
+
+---
+
+**Navegación:** [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|← Índice N3]] · [[Resumenes_Nivel2/Why_Don_t_Students_Like_School_2e|Resumen Nivel 2 ↑]]

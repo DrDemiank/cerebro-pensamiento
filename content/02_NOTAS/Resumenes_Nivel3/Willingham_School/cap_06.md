@@ -1,6 +1,16 @@
-# Why Don’t Students Like School (2e) — D. Willingham
+---
+libro: "Why Don't Students Like School (2.ª ed.)"
+autor: "Daniel T. Willingham"
+capitulo: 6
+titulo: "6. ¿Cuál es el secreto para que piensen como científicos, matemáticos e historiadores reales?"
+nivel: 3
+generado: 2026-10-03
+tags: [N3, Willingham, cognicion-aplicada]
+---
 
+# Capítulo 6 — 6. ¿Cuál es el secreto para que piensen como científicos, matemáticos e historiadores reales?
 
+> **Nivel 3 · texto completo del capítulo traducido.** Anterior: [[Resumenes_Nivel2/Why_Don_t_Students_Like_School_2e|Resumen Nivel 2]] · [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|Índice N3]]
 
 ## Capítulo 6 - ¿Cuál es el secreto para que los estudiantes piensen como verdaderos ...
 
@@ -100,8 +110,6 @@ Así, los expertos liberan espacio en la memoria de trabajo mediante la adquisic
 
 Lo interesante de este discurso interno es que el experto puede extraer implicaciones de él. La experta en física que se mencionó acaba de formular una hipótesis sobre la naturaleza del problema y, a medida que continúa leyendo, evaluará si su hipótesis es correcta. De hecho, la experta añadió: “Ahora estoy realmente segura, porque vamos a comprimir el resorte y eso producirá más energía potencial”. Por lo tanto, los expertos no solo narran lo que están haciendo; también generan hipótesis, ponen a prueba su propio entendimiento y reflexionan sobre las implicaciones de posibles soluciones en desarrollo. Hablar consigo mismo exige memoria de trabajo, por lo que los novatos son mucho menos propensos a hacerlo. Si llegan a hablar consigo mismos, lo que dicen es predeciblemente más superficial que lo que dicen los expertos. Repiten el enunciado del problema o intentan relacionarlo con una fórmula familiar. Cuando los novatos se hablan a sí mismos, narran lo que están haciendo, y sus palabras no poseen las propiedades beneficiosas de auto‑evaluación que caracteriza el discurso de los expertos.
 
-## Why Don't Students Like School
-
 ## How Can We Get Students to Think Like Experts?
 
 He discutido las capacidades de científicos, historiadores, matemáticos y expertos en general. Ellos perciben los problemas y situaciones en su campo elegido de manera funcional, más que a nivel superficial. Ver las cosas de esa forma les permite focalizarse en los detalles importantes entre una avalancha de información, producir soluciones que siempre son coherentes y razonables (aunque no siempre correctas) y demostrar cierta transferencia de su conocimiento a campos relacionados. Además, muchas de las tareas rutinarias que realizan los expertos se han automatizado mediante la práctica.
@@ -168,8 +176,6 @@ Lo mismo ocurre con las ferias de ciencia. He juzgado muchas ferias de ciencia, 
 
 La conclusión es que plantear a los estudiantes desafíos que exijan la creación de algo nuevo es una tarea que está más allá de su alcance, pero eso no significa que nunca deban plantearse tales tareas. Simplemente hay que tener presente qué es lo que el estudiante está obteniendo o no obteniendo de ellas.  
 
-## Why Don't Students Like School  
-
 ### Don’t Expect Novices to Learn by Doing What Experts Do  
 
 Al considerar cómo ayudar a los estudiantes a adquirir una habilidad, parece natural animarlos a emular a alguien que ya sabe hacer lo que se les quiere enseñar. Así, si se desea que los estudiantes sepan leer un mapa, se busca a una persona experta en lectura de mapas y se comienza a entrenarlos con los métodos que esa persona utiliza. Por lógico que suene este enfoque, puede ser un error porque, como he enfatizado, existen diferencias significativas entre la forma de pensar de los expertos y la de los novatos.  
@@ -182,19 +188,13 @@ Cada vez que se observa a un experto hacer algo de manera diferente a como lo ha
 
 **FIGURA 8:** Cada línea muestra dónde se detuvieron los ojos del lector al leer un párrafo. A la izquierda aparecen los resultados típicos de un lector principiante, y a la derecha los resultados de un lector experto. Es cierto que los ojos de los expertos se detienen con menos frecuencia en comparación con los de los principiantes (si nunca lo has observado, mira los ojos de alguien mientras lee; es interesante), pero eso no significa que la estrategia del experto sea una que los principiantes puedan emplear.  
 
-## Why Don't Students Like School  
-
 ### Bibliography  
-
-## Why Don't Students Like School  
 
 #### Less Technical  
 
 Bloom, B. S. (1985). *Developing talent in young people*. Nueva York: Ballantine Books. Este libro es el producto de una encuesta a cien expertos de clase mundial en sus campos: atletas, científicos, músicos, etc. El mensaje del libro es que los expertos no nacen, se hacen, y describe los métodos mediante los cuales los expertos se entrenan.  
 
 Feltovich, P. J., Prietula, M. J., & Ericsson, K. A. (2006). *Studies of expertise from psychological perspectives*. En K. A. Ericsson, N. Charness, P. J. Feltovich, & R. R. Hoffman (Eds.), *The Cambridge handbook of expertise and expert performance* (pp. 41‑68). Cambridge, Reino Unido: Cambridge University Press. Aunque este capítulo aparece en un volumen académico, constituye una visión bastante legible de las características psicológicas de los expertos.  
-
-## Why Don't Students Like School  
 
 ### More Technical
 
@@ -205,3 +205,7 @@ Hogan, T., Rabinowitz, M., & & Craven, J. A. (2003). Representación en la ense�
 Simon, H. A., & Chase, W. G. (1973). Habilidad en el ajedrez. American Scientist, 61, 394-403. Un artículo clásico sobre la experticia que incluye la propuesta de la regla de los diez años y la estimación de que cincuenta mil posiciones de juego se almacenan en la mente de los maestros de ajedrez.  
 
 Tittle, C. K. (2006). Evaluación del aprendizaje y desarrollo docente. En P. A. Alexander & P. H. Winne (Eds.), Manual de psicología educativa (2ª ed., pp. 953-984). Mahwah, NJ: Erlbaum. Una revisión amplia de lo que los docentes saben y del impacto que ello tiene en su práctica.
+
+---
+
+**Navegación:** [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|← Índice N3]] · [[Resumenes_Nivel2/Why_Don_t_Students_Like_School_2e|Resumen Nivel 2 ↑]]
