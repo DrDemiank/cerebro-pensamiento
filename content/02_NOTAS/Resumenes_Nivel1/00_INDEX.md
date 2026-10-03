@@ -2,78 +2,113 @@
 
 Nivel 1 = lo que trata cada libro, puntos clave, en breve. Nivel 2 (detallado por capítulo) y Nivel 3 (lectura completa) quedan pendientes por definición del plan.
 
-- **Medical Problem Solving: An Analysis of Clinical Reasoning** (Elstein, Shulman, Sprafka) — prioridad 1 — [[Resumenes_Nivel1/Medical_Problem_Solving_An_Analysis_of_Clinical_Reasoning|resumen 1]]
-- **Learning Clinical Reasoning** (Jerome P. Kassirer (1a ed. con Kopelman)) — prioridad 2 — [[Resumenes_Nivel1/Learning_Clinical_Reasoning|resumen 1]]
-- **How Doctors Think** (Jerome Groopman) — prioridad 1 — [[Resumenes_Nivel1/How_Doctors_Think|resumen 1]]
-- **Diagnosis: Interpreting the Shadows** (Croskerry, Cosby, Graber, Singh) — prioridad 2 — [[Resumenes_Nivel1/Diagnosis_Interpreting_the_Shadows|resumen 1]]
-- **Medical Decision Making** (Harold C. Sox (con Higgins, Owens)) — prioridad 2 — [[Resumenes_Nivel1/Medical_Decision_Making|resumen 1]]
-- **Decision Making in Health and Medicine** (Hunink, Glasziou et al.) — prioridad 3 — [[Resumenes_Nivel1/Decision_Making_in_Health_and_Medicine|resumen 1]]
-- **Evidence-Based Diagnosis: An Active Learning Approach** (Newman, Kohn) — prioridad 1 — [[Resumenes_Nivel1/Evidence_Based_Diagnosis_An_Active_Learning_Approach|resumen 1]]
-- **Symptom to Diagnosis: An Evidence-Based Guide** (Stern, Cifu, Altkorn) — prioridad 1 — [[Resumenes_Nivel1/Symptom_to_Diagnosis_An_Evidence_Based_Guide|resumen 1]]
-- **The Rational Clinical Examination** (Simel, Rennie (eds.)) — prioridad 1 — [[Resumenes_Nivel1/The_Rational_Clinical_Examination|resumen 1]]
-- **Evidence-Based Physical Diagnosis** (Steven McGee) — prioridad 1 — [[Resumenes_Nivel1/Evidence_Based_Physical_Diagnosis|resumen 1]]
-- **Clinical Reasoning in the Health Professions** (Higgs, Jensen, Jones (eds.)) — prioridad 3 — [[Resumenes_Nivel1/Clinical_Reasoning_in_the_Health_Professions|resumen 1]]
-- **Evidence-Based Medicine: How to Practice and Teach It** (Straus, Glasziou, Richardson, Haynes) — prioridad 1 — [[Resumenes_Nivel1/Evidence_Based_Medicine_How_to_Practice_and_Teach_It|resumen 1]]
-- **Users Guides to the Medical Literature: Essentials** (Guyatt, Rennie, Meade, Cook) — prioridad 1 — [[Resumenes_Nivel1/Users_Guides_to_the_Medical_Literature_Essentials|resumen 1]]
-- **How to Read a Paper** (Trisha Greenhalgh) — prioridad 1 — [[Resumenes_Nivel1/How_to_Read_a_Paper|resumen 1]]
-- **Clinical Epidemiology: The Essentials** (Fletcher & Fletcher) — prioridad 2 — [[Resumenes_Nivel1/Clinical_Epidemiology_The_Essentials|resumen 1]]
-- **Epidemiology: An Introduction** (Kenneth J. Rothman) — prioridad 2 — [[Resumenes_Nivel1/Epidemiology_An_Introduction|resumen 1]]
-- **Modern Epidemiology** (Lash, Rothman, Greenland) — prioridad 3 — [[Resumenes_Nivel1/Modern_Epidemiology|resumen 1]]
-- **Clinical Epidemiology: A Basic Science for Clinical Medicine** (Sackett, Haynes, Guyatt, Tugwell) — prioridad 2 — [[Resumenes_Nivel1/Clinical_Epidemiology_A_Basic_Science_for_Clinical_Medicine|resumen 1]]
-- **Biostatistics and Epidemiology: A Primer for Health Professionals** (Wassertheil-Smoller & Smoller) — prioridad 3 — [[Resumenes_Nivel1/Biostatistics_and_Epidemiology_A_Primer_for_Health_Professio|resumen 1]]
-- **Statistics at Square One** (Michael J. Campbell) — prioridad 3 — [[Resumenes_Nivel1/Statistics_at_Square_One|resumen 1]]
-- **Testing Treatments: Better Research for Better Healthcare** (Evans, Thornton, Chalmers, Glasziou) — prioridad 1 — [[Resumenes_Nivel1/Testing_Treatments_Better_Research_for_Better_Healthcare|resumen 1]]
-- **How Medicine Works and When It Doesnt** (F. Perry Wilson) — prioridad 1 — [[Resumenes_Nivel1/How_Medicine_Works_and_When_It_Doesnt|resumen 1]]
-- **Improving Diagnosis in Health Care** (National Academies (NASEM)) — prioridad 1 — [[Resumenes_Nivel1/Improving_Diagnosis_in_Health_Care|resumen 1]]
-- **Pensar rapido, pensar despacio (Thinking, Fast and Slow)** (Daniel Kahneman) — prioridad 1 — [[Resumenes_Nivel1/Pensar_rapido_pensar_despacio_Thinking_Fast_and_Slow)|resumen 1]]
-- **Judgment under Uncertainty: Heuristics and Biases** (Kahneman, Slovic, Tversky (eds.)) — prioridad 2 — [[Resumenes_Nivel1/Judgment_under_Uncertainty_Heuristics_and_Biases|resumen 1]]
-- **Calculated Risks: How to Know When Numbers Deceive You** (Gerd Gigerenzer) — prioridad 1 — [[Resumenes_Nivel1/Calculated_Risks_How_to_Know_When_Numbers_Deceive_You|resumen 1]]
-- **Risk Savvy (Riesgo: como tomar decisiones acertadas)** (Gerd Gigerenzer) — prioridad 2 — [[Resumenes_Nivel1/Risk_Savvy_Riesgo_como_tomar_decisiones_acertadas)|resumen 1]]
-- **Better Doctors, Better Patients, Better Decisions** (Gerd Gigerenzer & Muir Gray (eds.)) — prioridad 2 — [[Resumenes_Nivel1/Better_Doctors_Better_Patients_Better_Decisions|resumen 1]]
-- **Superforecasting (Superpredictores)** (Tetlock & Gardner) — prioridad 2 — [[Resumenes_Nivel1/Superforecasting_Superpredictores)|resumen 1]]
-- **Ruido (Noise: A Flaw in Human Judgment)** (Kahneman, Sibony, Sunstein) — prioridad 2 — [[Resumenes_Nivel1/Ruido_Noise_A_Flaw_in_Human_Judgment)|resumen 1]]
-- **Nudge (Malcomidos por los incentivos)** (Thaler & Sunstein) — prioridad 3 — [[Resumenes_Nivel1/Nudge_Malcomidos_por_los_incentivos)|resumen 1]]
-- **Clinical versus Statistical Prediction** (Paul E. Meehl) — prioridad 2 — [[Resumenes_Nivel1/Clinical_versus_Statistical_Prediction|resumen 1]]
-- **El cisne negro (The Black Swan)** (Nassim N. Taleb) — prioridad 3 — [[Resumenes_Nivel1/El_cisne_negro_The_Black_Swan)|resumen 1]]
-- **The Checklist Manifesto** (Atul Gawande) — prioridad 2 — [[Resumenes_Nivel1/The_Checklist_Manifesto|resumen 1]]
-- **On Being Certain: Believing You Are Right Even When Youre Not** (Robert A. Burton) — prioridad 2 — [[Resumenes_Nivel1/On_Being_Certain_Believing_You_Are_Right_Even_When_Youre_Not|resumen 1]]
-- **The Book of Why (El por que de las cosas)** (Judea Pearl & Dana Mackenzie) — prioridad 2 — [[Resumenes_Nivel1/The_Book_of_Why_El_por_que_de_las_cosas)|resumen 1]]
-- **The Art of Statistics (El arte de la estadistica)** (David Spiegelhalter) — prioridad 2 — [[Resumenes_Nivel1/The_Art_of_Statistics_El_arte_de_la_estadistica)|resumen 1]]
-- **The Signal and the Noise (La senal y el ruido)** (Nate Silver) — prioridad 3 — [[Resumenes_Nivel1/The_Signal_and_the_Noise_La_senal_y_el_ruido)|resumen 1]]
-- **Statistics** (Freedman, Pisani, Purves) — prioridad 2 — [[Resumenes_Nivel1/Statistics|resumen 1]]
-- **Statistical Rethinking** (Richard McElreath) — prioridad 3 — [[Resumenes_Nivel1/Statistical_Rethinking|resumen 1]]
-- **Computer Age Statistical Inference** (Efron & Hastie) — prioridad 3 — [[Resumenes_Nivel1/Computer_Age_Statistical_Inference|resumen 1]]
-- **The Theory That Would Not Die** (Sharon Bertsch McGrayne) — prioridad 3 — [[Resumenes_Nivel1/The_Theory_That_Would_Not_Die|resumen 1]]
-- **How to Lie with Statistics** (Darrell Huff) — prioridad 3 — [[Resumenes_Nivel1/How_to_Lie_with_Statistics|resumen 1]]
-- **Statistics Done Wrong** (Alex Reinhart) — prioridad 2 — [[Resumenes_Nivel1/Statistics_Done_Wrong|resumen 1]]
-- **Calling Bullshit: Data Reasoning in a Digital World** (Bergstrom & West) — prioridad 2 — [[Resumenes_Nivel1/Calling_Bullshit_Data_Reasoning_in_a_Digital_World|resumen 1]]
-- **Rationality: What It Is, Why It Seems Scarce** (Steven Pinker) — prioridad 3 — [[Resumenes_Nivel1/Rationality_What_It_Is_Why_It_Seems_Scarce|resumen 1]]
-- **Make It Stick (Como estudiar)** (Brown, Roediger, McDaniel) — prioridad 1 — [[Resumenes_Nivel1/Make_It_Stick_Como_estudiar)|resumen 1]]
-- **Peak (Exelencia)** (Ericsson & Pool) — prioridad 2 — [[Resumenes_Nivel1/Peak_Exelencia)|resumen 1]]
-- **How We Learn (Aprender)** (Stanislas Dehaene) — prioridad 2 — [[Resumenes_Nivel1/How_We_Learn_Aprender)|resumen 1]]
-- **A Mind for Numbers** (Barbara Oakley) — prioridad 3 — [[Resumenes_Nivel1/A_Mind_for_Numbers|resumen 1]]
-- **Understanding How We Learn: A Visual Guide** (Weinstein & Sumeracki (Learning Scientists)) — prioridad 2 — [[Resumenes_Nivel1/Understanding_How_We_Learn_A_Visual_Guide|resumen 1]]
-- **How Learning Works** (Ambrose et al.) — prioridad 3 — [[Resumenes_Nivel1/How_Learning_Works|resumen 1]]
-- **La logica de la investigacion cientifica (The Logic of Scientific Discovery)** (Karl Popper) — prioridad 2 — [[Resumenes_Nivel1/La_logica_de_la_investigacion_cientifica_The_Logic_of_Scient|resumen 1]]
-- **Conjectures and Refutations (Conjeturas y refutaciones)** (Karl Popper) — prioridad 3 — [[Resumenes_Nivel1/Conjectures_and_Refutations_Conjeturas_y_refutaciones)|resumen 1]]
-- **La estructura de las revoluciones cientificas** (Thomas S. Kuhn) — prioridad 2 — [[Resumenes_Nivel1/La_estructura_de_las_revoluciones_cientificas|resumen 1]]
-- **Science Fictions (Ciencia corrupta)** (Stuart Ritchie) — prioridad 2 — [[Resumenes_Nivel1/Science_Fictions_Ciencia_corrupta)|resumen 1]]
-- **The Seven Deadly Sins of Psychology** (Chris Chambers) — prioridad 3 — [[Resumenes_Nivel1/The_Seven_Deadly_Sins_of_Psychology|resumen 1]]
-- **Bad Science (Malas ciencias)** (Ben Goldacre) — prioridad 3 — [[Resumenes_Nivel1/Bad_Science_Malas_ciencias)|resumen 1]]
-- **The Mismeasure of Man** (Stephen Jay Gould) — prioridad 3 — [[Resumenes_Nivel1/The_Mismeasure_of_Man|resumen 1]]
-- **The Laws of Medicine** (Siddhartha Mukherjee) — prioridad 3 — [[Resumenes_Nivel1/The_Laws_of_Medicine|resumen 1]]
-- **How We Think** (John Dewey) — prioridad extra — [[Resumenes_Nivel1/How_We_Think|resumen 1]]
-- **The Principles of Psychology Vol I** (William James) — prioridad extra — [[Resumenes_Nivel1/The_Principles_of_Psychology_Vol_I|resumen 1]]
-- **The Principles of Psychology Vol II** (William James) — prioridad extra — [[Resumenes_Nivel1/The_Principles_of_Psychology_Vol_II|resumen 1]]
-- **Memory: A Contribution to Experimental Psychology** (Hermann Ebbinghaus) — prioridad extra — [[Resumenes_Nivel1/Memory_A_Contribution_to_Experimental_Psychology|resumen 1]]
-- **A Treatise of Human Nature Vol I** (David Hume) — prioridad extra — [[Resumenes_Nivel1/A_Treatise_of_Human_Nature_Vol_I|resumen 1]]
-- **A System of Logic Vol I** (John Stuart Mill) — prioridad extra — [[Resumenes_Nivel1/A_System_of_Logic_Vol_I|resumen 1]]
-- **La Gramatica de la Ciencia (The Grammar of Science)** (Karl Pearson) — prioridad extra — [[Resumenes_Nivel1/La_Gramatica_de_la_Ciencia_The_Grammar_of_Science)|resumen 1]]
-- **Los Problemas de la Filosofia (The Problems of Philosophy)** (Bertrand Russell) — prioridad extra — [[Resumenes_Nivel1/Los_Problemas_de_la_Filosofia_The_Problems_of_Philosophy)|resumen 1]]
-- **Novum Organum (ed. latin)** (Francis Bacon) — prioridad extra — [[Resumenes_Nivel1/Novum_Organum_ed_latin)|resumen 1]]
-- **Case-based Clinical Reasoning Education (CBCR)** (O. ten Cate, E. Custers (eds.)) — prioridad 2 — [[Resumenes_Nivel1/Case_based_Clinical_Reasoning_Education_CBCR)|resumen 1]]
-- **Causal Inference: What If** (Miguel A. Hernan, James M. Robins) — prioridad 2 — [[Resumenes_Nivel1/Causal_Inference_What_If|resumen 1]]
-- **Los tratamientos a prueba (Testing Treatments, ed. espanol)** (I. Evans, H. Thornton, L. Chalmers, P. Glasziou) — prioridad 1 — [[Resumenes_Nivel1/Los_tratamientos_a_prueba_Testing_Treatments_ed_espanol)|resumen 1]]
-- **Introduction to Probability** (C. Grinstead, J. Snell) — prioridad 3 — [[Resumenes_Nivel1/Introduction_to_Probability|resumen 1]]
-- **Probability Theory: The Logic of Science (borrador parcial)** (E. T. Jaynes) — prioridad extra — [[Resumenes_Nivel1/Probability_Theory_The_Logic_of_Science_borrador_parcial)|resumen 1]]
-- **On Being a Scientist (3a ed.)** (National Academy of Sciences (NASEM)) — prioridad 3 — [[Resumenes_Nivel1/On_Being_a_Scientist_3a_ed_)|resumen 1]]
+Organizado por **modos de aprendizaje**: cada sección es una forma de aprender — lo que usted gana si lee esos libros. Versión extendida (con rutas en disco y "por dónde empezar"): [[00_MODOS_APRENDIZAJE|Modos de aprendizaje]].
+
+## Modo 1 — Razonar en la cabecera: del sintoma a la decision
+
+**Qué aprenderás con estos libros:** Que aprenderas aqui: como se construye un diagnostico y una decision clinica ante un paciente real — razonamiento experto vs novato, hallazgos fisicos convertidos en probabilidades, arboles de decision y sistemas que reducen el error diagnostico.
+
+- **Evidence-Based Diagnosis: An Active Learning Approach** (Newman, Kohn) — prioridad 1 — aprenderás: A dominar el test diagnostico con la calculadora en mano: LRs, post-test y trampas de prevalencia, con ejercicios. — [[Resumenes_Nivel1/Evidence_Based_Diagnosis_An_Active_Learning_Approach|resumen 1]]
+- **Evidence-Based Physical Diagnosis** (Steven McGee) — prioridad 1 — aprenderás: Lo mismo, version de bolsillo por organo/sistema: el signo y su LR para llevar al piso. — [[Resumenes_Nivel1/Evidence_Based_Physical_Diagnosis|resumen 1]]
+- **How Doctors Think** (Jerome Groopman) — prioridad 1 — aprenderás: Los errores cognitivos reales de medicos brillantes (anclaje, disponibilidad, afecto) y sus antidotos practicos. — [[Resumenes_Nivel1/How_Doctors_Think|resumen 1]]
+- **Improving Diagnosis in Health Care** (National Academies (NASEM)) — prioridad 1 — aprenderás: El error diagnostico como problema de sistema: 1 de ~20 consultas falla; que hacer institucionalmente. — [[Resumenes_Nivel1/Improving_Diagnosis_in_Health_Care|resumen 1]]
+- **Medical Problem Solving: An Analysis of Clinical Reasoning** (Elstein, Shulman, Sprafka) — prioridad 1 — aprenderás: Que el experto no usa un metodo especial: razona igual que el novato, pero con mejor conocimiento base (experimento clasico de Elstein). — [[Resumenes_Nivel1/Medical_Problem_Solving_An_Analysis_of_Clinical_Reasoning|resumen 1]]
+- **Symptom to Diagnosis: An Evidence-Based Guide** (Stern, Cifu, Altkorn) — prioridad 1 — aprenderás: Para cada sintoma comun de agudos: de la prevalencia a la conducta, pasando por hallazgos con su LR. — [[Resumenes_Nivel1/Symptom_to_Diagnosis_An_Evidence_Based_Guide|resumen 1]]
+- **The Rational Clinical Examination** (Simel, Rennie (eds.)) — prioridad 1 — aprenderás: Que vale cada signo fisico: tablas de sensibilidad/especificidad/LR por hallazgo, con la evidencia citada. — [[Resumenes_Nivel1/The_Rational_Clinical_Examination|resumen 1]]
+- **Case-based Clinical Reasoning Education (CBCR)** (O. ten Cate, E. Custers (eds.)) — prioridad 2 — aprenderás: Como se ensena razonamiento clinico con casos graduados: un curriculum replicable (CBCR de Utrecht). — [[Resumenes_Nivel1/Case_based_Clinical_Reasoning_Education_CBCR)|resumen 1]]
+- **Diagnosis: Interpreting the Shadows** (Croskerry, Cosby, Graber, Singh) — prioridad 2 — aprenderás: La teoria moderna del diagnostico bajo incertidumbre y como se organiza un sistema de seguridad diagnostica. — [[Resumenes_Nivel1/Diagnosis_Interpreting_the_Shadows|resumen 1]]
+- **Learning Clinical Reasoning** (Jerome P. Kassirer (1a ed. con Kopelman)) — prioridad 2 — aprenderás: El manual didactico del razonamiento clinico: probabilidad pre-test, LRs, arboles y sesgos, con casos para practicar. — [[Resumenes_Nivel1/Learning_Clinical_Reasoning|resumen 1]]
+- **Medical Decision Making** (Harold C. Sox (con Higgins, Owens)) — prioridad 2 — aprenderás: El formalismo completo de decidir: Bayes, arboles, utilidades, QALYs y costo-efectividad. — [[Resumenes_Nivel1/Medical_Decision_Making|resumen 1]]
+- **On Being Certain: Believing You Are Right Even When Youre Not** (Robert A. Burton) — prioridad 2 — aprenderás: Por que la sensacion de certeza no es evidencia: neurociencia de la conviccion y el 'diagnostico por conviccion'. — [[Resumenes_Nivel1/On_Being_Certain_Believing_You_Are_Right_Even_When_Youre_Not|resumen 1]]
+- **The Checklist Manifesto** (Atul Gawande) — prioridad 2 — aprenderás: La herramienta mas humilde y probada contra el error en entornos complejos: el checklist quirurgico. — [[Resumenes_Nivel1/The_Checklist_Manifesto|resumen 1]]
+- **Clinical Reasoning in the Health Professions** (Higgs, Jensen, Jones (eds.)) — prioridad 3 — aprenderás: Razonamiento clinico mas alla del medico: experticia, cognicion situada y trabajo interprofesional. — [[Resumenes_Nivel1/Clinical_Reasoning_in_the_Health_Professions|resumen 1]]
+- **Decision Making in Health and Medicine** (Hunink, Glasziou et al.) — prioridad 3 — aprenderás: Decisiones medicas modeladas de principio a fin en casos completos (cardiologia, oncologia, cribados). — [[Resumenes_Nivel1/Decision_Making_in_Health_and_Medicine|resumen 1]]
+- **The Laws of Medicine** (Siddhartha Mukherjee) — prioridad 3 — aprenderás: Tres leyes breves de la practica: la fuerza de un test depende de lo que prueba, lo raro es comunmente comun y la incertidumbre no es error. — [[Resumenes_Nivel1/The_Laws_of_Medicine|resumen 1]]
+
+## Modo 2 — Leer la evidencia: papers, estudios y sin ruido
+
+**Qué aprenderás con estos libros:** Que aprenderas aqui: a leer un articulo sin dejarte enganar — tipos de estudio, valides, NNT/RR/OR, epidemiologia clinica, causalidad y como se fabrica (y corrompe) la evidencia de tratamientos.
+
+- **Evidence-Based Medicine: How to Practice and Teach It** (Straus, Glasziou, Richardson, Haynes) — prioridad 1 — aprenderás: El metodo EBM canonico: pregunta PICO, busqueda, y juicio de validez/importancia/aplicabilidad. — [[Resumenes_Nivel1/Evidence_Based_Medicine_How_to_Practice_and_Teach_It|resumen 1]]
+- **How Medicine Works and When It Doesnt** (F. Perry Wilson) — prioridad 1 — aprenderás: Como leer la medicina reciente: ensayos, meta-analisis, valores-p, subgrupos y cabildeo comercial. — [[Resumenes_Nivel1/How_Medicine_Works_and_When_It_Doesnt|resumen 1]]
+- **How to Read a Paper** (Trisha Greenhalgh) — prioridad 1 — aprenderás: El desarmador de articulos para medicos con poco tiempo: que mirar y que descartar. — [[Resumenes_Nivel1/How_to_Read_a_Paper|resumen 1]]
+- **Los tratamientos a prueba (Testing Treatments, ed. espanol)** (I. Evans, H. Thornton, L. Chalmers, P. Glasziou) — prioridad 1 — aprenderás: El mismo libro en espanol: excelente para citar y para explicar evidencia en la cabecera. — [[Resumenes_Nivel1/Los_tratamientos_a_prueba_Testing_Treatments_ed_espanol)|resumen 1]]
+- **Testing Treatments: Better Research for Better Healthcare** (Evans, Thornton, Chalmers, Glasziou) — prioridad 1 — aprenderás: Por que los tratamientos deben probarse de forma justa: historias de danos evitables y las 6 preguntas. — [[Resumenes_Nivel1/Testing_Treatments_Better_Research_for_Better_Healthcare|resumen 1]]
+- **Users Guides to the Medical Literature: Essentials** (Guyatt, Rennie, Meade, Cook) — prioridad 1 — aprenderás: Como evaluar cada diseno: tratamiento, diagnostico, danos, pronostico y revisiones, con las metricas de impacto. — [[Resumenes_Nivel1/Users_Guides_to_the_Medical_Literature_Essentials|resumen 1]]
+- **Causal Inference: What If** (Miguel A. Hernan, James M. Robins) — prioridad 2 — aprenderás: El canon moderno de causalidad en epidemiologia: resultados potenciales, DAGs, g-methods. — [[Resumenes_Nivel1/Causal_Inference_What_If|resumen 1]]
+- **Clinical Epidemiology: A Basic Science for Clinical Medicine** (Sackett, Haynes, Guyatt, Tugwell) — prioridad 2 — aprenderás: El clasico de Sackett: la epidemiologia clinica como 'ciencia basica' de la medicina. — [[Resumenes_Nivel1/Clinical_Epidemiology_A_Basic_Science_for_Clinical_Medicine|resumen 1]]
+- **Clinical Epidemiology: The Essentials** (Fletcher & Fletcher) — prioridad 2 — aprenderás: El nucleo minimo de epidemiologia clinica: frecuencia, riesgo, diagnostico, pronostico, tratamiento. — [[Resumenes_Nivel1/Clinical_Epidemiology_The_Essentials|resumen 1]]
+- **Epidemiology: An Introduction** (Kenneth J. Rothman) — prioridad 2 — aprenderás: Rothman compacto: incidencia, confucion, sesgos y disenos, pensado conceptualmente. — [[Resumenes_Nivel1/Epidemiology_An_Introduction|resumen 1]]
+- **Biostatistics and Epidemiology: A Primer for Health Professionals** (Wassertheil-Smoller & Smoller) — prioridad 3 — aprenderás: Primer estadistico-epidemiologico para no perderse en un paper. — [[Resumenes_Nivel1/Biostatistics_and_Epidemiology_A_Primer_for_Health_Professio|resumen 1]]
+- **Modern Epidemiology** (Lash, Rothman, Greenland) — prioridad 3 — aprenderás: La referencia avanzada: DAGs, g-methods, propensity, para dominar la inferencia epidemiologica. — [[Resumenes_Nivel1/Modern_Epidemiology|resumen 1]]
+- **On Being a Scientist (3a ed.)** (National Academy of Sciences (NASEM)) — prioridad 3 — aprenderás: La etica practica del investigador: autoria, plagio, conflicto de interes, datos. — [[Resumenes_Nivel1/On_Being_a_Scientist_3a_ed_)|resumen 1]]
+- **Statistics at Square One** (Michael J. Campbell) — prioridad 3 — aprenderás: Estadistica clinica elemental en breve: t, chi2, correlacion, con datos medicos. — [[Resumenes_Nivel1/Statistics_at_Square_One|resumen 1]]
+
+## Modo 3 — Entender tu propia mente: sesgos, ruido y juicio
+
+**Qué aprenderás con estos libros:** Que aprenderas aqui: como decide el cerebro humano — heurísticas, sesgos, ruido entre evaluadores y sobreconfianza — y como diseñar defensas individuales e institucionales.
+
+- **Calculated Risks: How to Know When Numbers Deceive You** (Gerd Gigerenzer) — prioridad 1 — aprenderás: Innumerancia medica: como los porcentajes condicionales confunden y las frecuencias naturales aclaran (mamografia, PSA, VIH). — [[Resumenes_Nivel1/Calculated_Risks_How_to_Know_When_Numbers_Deceive_You|resumen 1]]
+- **Pensar rapido, pensar despacio (Thinking, Fast and Slow)** (Daniel Kahneman) — prioridad 1 — aprenderás: Sistema 1 vs Sistema 2: el mapa maestro de sesgos y por que la intuicion engana (y cuando no). — [[Resumenes_Nivel1/Pensar_rapido_pensar_despacio_Thinking_Fast_and_Slow)|resumen 1]]
+- **Better Doctors, Better Patients, Better Decisions** (Gerd Gigerenzer & Muir Gray (eds.)) — prioridad 2 — aprenderás: Ensaios breves sobre comunicar numeros sanitarios honestos y contra el sobrediagnostico. — [[Resumenes_Nivel1/Better_Doctors_Better_Patients_Better_Decisions|resumen 1]]
+- **Clinical versus Statistical Prediction** (Paul E. Meehl) — prioridad 2 — aprenderás: Meehl 1954: la formula vence a la impresion clinica; fundamento del juicio actuarial. — [[Resumenes_Nivel1/Clinical_versus_Statistical_Prediction|resumen 1]]
+- **Judgment under Uncertainty: Heuristics and Biases** (Kahneman, Slovic, Tversky (eds.)) — prioridad 2 — aprenderás: La fuente original: los articulos que definieron representatividad, disponibilidad y anclaje. — [[Resumenes_Nivel1/Judgment_under_Uncertainty_Heuristics_and_Biases|resumen 1]]
+- **Risk Savvy (Riesgo: como tomar decisiones acertadas)** (Gerd Gigerenzer) — prioridad 2 — aprenderás: Alfabetizacion de riesgo para decidir mejor en salud y en la vida; reglas claras contra paternalismo. — [[Resumenes_Nivel1/Risk_Savvy_Riesgo_como_tomar_decisiones_acertadas)|resumen 1]]
+- **Ruido (Noise: A Flaw in Human Judgment)** (Kahneman, Sibony, Sunstein) — prioridad 2 — aprenderás: La variabilidad indeseada entre jueces (radiologia, psiquiatria) y como diseñarla fuera: normas de decision. — [[Resumenes_Nivel1/Ruido_Noise_A_Flaw_in_Human_Judgment)|resumen 1]]
+- **Superforecasting (Superpredictores)** (Tetlock & Gardner) — prioridad 2 — aprenderás: Como predicen mejor los mejores: actualizacion bayesiana continua, descomposicion y calibracion. — [[Resumenes_Nivel1/Superforecasting_Superpredictores)|resumen 1]]
+- **El cisne negro (The Black Swan)** (Nassim N. Taleb) — prioridad 3 — aprenderás: Cautela epistemica ante eventos extremos: falacia narrativa, colas pesadas y sobremetodo. — [[Resumenes_Nivel1/El_cisne_negro_The_Black_Swan)|resumen 1]]
+- **Nudge (Malcomidos por los incentivos)** (Thaler & Sunstein) — prioridad 3 — aprenderás: Arquitectura de decisiones: defaults y empujon que cambian conducta (adherence, donacion, menus). — [[Resumenes_Nivel1/Nudge_Malcomidos_por_los_incentivos)|resumen 1]]
+- **Rationality: What It Is, Why It Seems Scarce** (Steven Pinker) — prioridad 3 — aprenderás: Inventario completo de herramientas racionales: logica, Bayes, causalidad, decision. — [[Resumenes_Nivel1/Rationality_What_It_Is_Why_It_Seems_Scarce|resumen 1]]
+
+## Modo 4 — Pensar con numeros: probabilidad y estadistica
+
+**Qué aprenderás con estos libros:** Que aprenderas aqui: la estadistica y la probabilidad desde cero hasta la frontera — teoria, bayesianismo, ciencia de datos y como no mentir (ni ser enganado) con cifras.
+
+- **Calling Bullshit: Data Reasoning in a Digital World** (Bergstrom & West) — prioridad 2 — aprenderás: Detectar y rebatir abuso de datos en la era digital; asimetria del bullshit. — [[Resumenes_Nivel1/Calling_Bullshit_Data_Reasoning_in_a_Digital_World|resumen 1]]
+- **Statistics** (Freedman, Pisani, Purves) — prioridad 2 — aprenderás: Freedman/Pisani/Purves: la logica estadistica con problemas reales, sin fórmulas muertas. — [[Resumenes_Nivel1/Statistics|resumen 1]]
+- **Statistics Done Wrong** (Alex Reinhart) — prioridad 2 — aprenderás: Catalogo de errores reales: poder insuficiente, p-hacking, comparaciones multiples. — [[Resumenes_Nivel1/Statistics_Done_Wrong|resumen 1]]
+- **The Art of Statistics (El arte de la estadistica)** (David Spiegelhalter) — prioridad 2 — aprenderás: El ciclo de datos de punta a punta: como se colecta, modela y comunica la incertidumbre. — [[Resumenes_Nivel1/The_Art_of_Statistics_El_arte_de_la_estadistica)|resumen 1]]
+- **The Book of Why (El por que de las cosas)** (Judea Pearl & Dana Mackenzie) — prioridad 2 — aprenderás: La revolucion causal de Pearl: la escalera de causa, DAGs y por que la correlacion no basta. — [[Resumenes_Nivel1/The_Book_of_Why_El_por_que_de_las_cosas)|resumen 1]]
+- **Computer Age Statistical Inference** (Efron & Hastie) — prioridad 3 — aprenderás: De Fisher al bootstrap y el machine learning: la unificacion computacional (Efron/Hastie). — [[Resumenes_Nivel1/Computer_Age_Statistical_Inference|resumen 1]]
+- **How to Lie with Statistics** (Darrell Huff) — prioridad 3 — aprenderás: El clasico anti-manipulacion: muestreo sesgado, ejes truncados, correlacion falsa. — [[Resumenes_Nivel1/How_to_Lie_with_Statistics|resumen 1]]
+- **Introduction to Probability** (C. Grinstead, J. Snell) — prioridad 3 — aprenderás: El texto de probabilidad formal con problemas resueltos: distribuciones, esperanza, Markov. — [[Resumenes_Nivel1/Introduction_to_Probability|resumen 1]]
+- **Statistical Rethinking** (Richard McElreath) — prioridad 3 — aprenderás: Estadistica bayesiana moderna con codigo: modelos jerarquicos, DAGs y MCMC. — [[Resumenes_Nivel1/Statistical_Rethinking|resumen 1]]
+- **The Signal and the Noise (La senal y el ruido)** (Nate Silver) — prioridad 3 — aprenderás: Por que fallan las predicciones (climate, economia, pandemias) y cuando aciertan. — [[Resumenes_Nivel1/The_Signal_and_the_Noise_La_senal_y_el_ruido)|resumen 1]]
+- **The Theory That Would Not Die** (Sharon Bertsch McGrayne) — prioridad 3 — aprenderás: La historia de Bayes: de Laplace y Turing a la medicina moderna; narrativa con sustancia. — [[Resumenes_Nivel1/The_Theory_That_Would_Not_Die|resumen 1]]
+- **Probability Theory: The Logic of Science (borrador parcial)** (E. T. Jaynes) — prioridad extra — aprenderás: Jaynes: probabilidad como logica extendida de la plausibilidad; el bayesianismo maximal. — [[Resumenes_Nivel1/Probability_Theory_The_Logic_of_Science_borrador_parcial)|resumen 1]]
+
+## Modo 5 — Aprender a aprender: memoria, estudio y practica
+
+**Qué aprenderás con estos libros:** Que aprenderas aqui: como funciona tu memoria y el aprendizaje segun la evidencia — repeticion espaciada, retrieval, interleaving, practica deliberada — para estudiar ENARM y medicina con metodo probado.
+
+- **Make It Stick (Como estudiar)** (Brown, Roediger, McDaniel) — prioridad 1 — aprenderás: La biblia del aprendizaje basado en evidencia: retrieval, espaciado, intercalado; reeler/ressaltar no funciona. — [[Resumenes_Nivel1/Make_It_Stick_Como_estudiar)|resumen 1]]
+- **How We Learn (Aprender)** (Stanislas Dehaene) — prioridad 2 — aprenderás: Los 4 pilares del aprendizaje segun Dehaene: atencion, engagement, feedback, consolidacion (sueño). — [[Resumenes_Nivel1/How_We_Learn_Aprender)|resumen 1]]
+- **Peak (Exelencia)** (Ericsson & Pool) — prioridad 2 — aprenderás: Practica deliberada: representaciones mentales, feedback y construccion del talento sin el mito de las 10,000 horas. — [[Resumenes_Nivel1/Peak_Exelencia)|resumen 1]]
+- **Understanding How We Learn: A Visual Guide** (Weinstein & Sumeracki (Learning Scientists)) — prioridad 2 — aprenderás: Las 6 estrategias con base cientifica, en guia visual; debunk de estilos de aprendizaje. — [[Resumenes_Nivel1/Understanding_How_We_Learn_A_Visual_Guide|resumen 1]]
+- **A Mind for Numbers** (Barbara Oakley) — prioridad 3 — aprenderás: Metodo de estudio de materia dificil: modo foco/difuso, chunking, Pomodoro — base del MOOC más famoso. — [[Resumenes_Nivel1/A_Mind_for_Numbers|resumen 1]]
+- **How Learning Works** (Ambrose et al.) — prioridad 3 — aprenderás: 7 principios de aprendizaje universitario: conocimiento previo, motivacion, maestria, practica-feedback. — [[Resumenes_Nivel1/How_Learning_Works|resumen 1]]
+- **How We Think** (John Dewey) — prioridad extra — aprenderás: Dewey 1910: la anatomia del pensamiento reflexivo, de la duda a la hipotesis probada. — [[Resumenes_Nivel1/How_We_Think|resumen 1]]
+- **Memory: A Contribution to Experimental Psychology** (Hermann Ebbinghaus) — prioridad extra — aprenderás: Ebbinghaus: la curva del olvido y el metodo del ahorro; el origen experimental de tu repaso espaciado. — [[Resumenes_Nivel1/Memory_A_Contribution_to_Experimental_Psychology|resumen 1]]
+- **The Principles of Psychology Vol I** (William James) — prioridad extra — aprenderás: James: conciencia, habituo, asociacion, atencion y la memoria clasica (cap 16). — [[Resumenes_Nivel1/The_Principles_of_Psychology_Vol_I|resumen 1]]
+- **The Principles of Psychology Vol II** (William James) — prioridad extra — aprenderás: James Vol II: sensacion, percepcion, razonamiento, voluntad y emocion. — [[Resumenes_Nivel1/The_Principles_of_Psychology_Vol_II|resumen 1]]
+
+## Modo 6 — Pensar como cientifico: epistemologia y metodo
+
+**Qué aprenderás con estos libros:** Que aprenderas aqui: que significa 'saber' algo — falsacion, paradigmas, induccion y como la ciencia real se autodeforma y se corrige; la base filosofica de todo lo demas.
+
+- **La estructura de las revoluciones cientificas** (Thomas S. Kuhn) — prioridad 2 — aprenderás: Kuhn: paradigmas, crisis y revoluciones; por que la ciencia no avanza por acumulacion. — [[Resumenes_Nivel1/La_estructura_de_las_revoluciones_cientificas|resumen 1]]
+- **La logica de la investigacion cientifica (The Logic of Scientific Discovery)** (Karl Popper) — prioridad 2 — aprenderás: Popper: la falsacion como demarcacion de lo cientifico; la induccion no justifica nada. — [[Resumenes_Nivel1/La_logica_de_la_investigacion_cientifica_The_Logic_of_Scient|resumen 1]]
+- **Science Fictions (Ciencia corrupta)** (Stuart Ritchie) — prioridad 2 — aprenderás: Los 4 vicios contemporaneos (fraude, sesgo, descuido, hype) y las reformas de la crisis de replicacion. — [[Resumenes_Nivel1/Science_Fictions_Ciencia_corrupta)|resumen 1]]
+- **Bad Science (Malas ciencias)** (Ben Goldacre) — prioridad 3 — aprenderás: Goldacre disecciona con humor la pseudociencia sanitaria: homeopatia, MMR, detox, medios. — [[Resumenes_Nivel1/Bad_Science_Malas_ciencias)|resumen 1]]
+- **Conjectures and Refutations (Conjeturas y refutaciones)** (Karl Popper) — prioridad 3 — aprenderás: Popper en ensayos: conocimiento como conjetura que arriesga contenido refutable. — [[Resumenes_Nivel1/Conjectures_and_Refutations_Conjeturas_y_refutaciones)|resumen 1]]
+- **The Mismeasure of Man** (Stephen Jay Gould) — prioridad 3 — aprenderás: Gould: como la ideologia deforma la medicion (craneometria, IQ); humildad metodologica historica. — [[Resumenes_Nivel1/The_Mismeasure_of_Man|resumen 1]]
+- **The Seven Deadly Sins of Psychology** (Chris Chambers) — prioridad 3 — aprenderás: Los pecados metodologicos de la psicologia y como los registra/reforma (registered reports). — [[Resumenes_Nivel1/The_Seven_Deadly_Sins_of_Psychology|resumen 1]]
+- **A System of Logic Vol I** (John Stuart Mill) — prioridad extra — aprenderás: Mill: los metodos canonicos de induccion (concordancia, diferencia, residuos) que subyacen a la epidemiologia. — [[Resumenes_Nivel1/A_System_of_Logic_Vol_I|resumen 1]]
+- **A Treatise of Human Nature Vol I** (David Hume) — prioridad extra — aprenderás: Hume: asociacion de ideas y el problema de la induccion; la semilla del escepticismo EBM. — [[Resumenes_Nivel1/A_Treatise_of_Human_Nature_Vol_I|resumen 1]]
+- **La Gramatica de la Ciencia (The Grammar of Science)** (Karl Pearson) — prioridad extra — aprenderás: Pearson: correlacion y contingencia; el precursor estadistico del pensamiento cientifico moderno. — [[Resumenes_Nivel1/La_Gramatica_de_la_Ciencia_The_Grammar_of_Science)|resumen 1]]
+- **Los Problemas de la Filosofia (The Problems of Philosophy)** (Bertrand Russell) — prioridad extra — aprenderás: Russell: conocimiento directo vs por descripcion; la duda estructural como ejercicio. — [[Resumenes_Nivel1/Los_Problemas_de_la_Filosofia_The_Problems_of_Philosophy)|resumen 1]]
+- **Novum Organum (ed. latin)** (Francis Bacon) — prioridad extra — aprenderás: Bacon: los 4 idolos que deforman el juicio y el manifiesto de la induccion empirica. — [[Resumenes_Nivel1/Novum_Organum_ed_latin)|resumen 1]]
+
+---
+
+Ver también: [[00_MODOS_APRENDIZAJE|Modos de aprendizaje (detalle con rutas)]] — [[00_MOC_MAESTRO|MOC maestro por áreas]]
