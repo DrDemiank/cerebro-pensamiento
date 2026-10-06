@@ -2,7 +2,7 @@
 
 **Autor:** Joshua Foer
 **Aprenderás:** Memoria y técnica del palacio de la memoria
-**Idioma:** resumen generado en español desde los capítulos traducidos en [[Libros_Traducidos/|Libros_Traducidos]].
+**Idioma:** español.
 **Índice N2:** [[Resumenes_Nivel2/00_INDEX_NIVEL2|00_INDEX_NIVEL2]]
 
 ## Capítulos

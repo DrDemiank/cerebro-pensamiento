@@ -1,6 +1,6 @@
 # Índice de resúmenes Nivel 1
 
-Nivel 1 = lo que trata cada libro, puntos clave, en breve. Nivel 2 detallado por capítulo ya existe en español para los 5 libros en estudio activo (Willingham, Oakley, Foer, Shea, McHugh): ver [[Resumenes_Nivel2/00_INDEX_NIVEL2|índice Nivel 2]]. Nivel 3 (lectura completa) queda pendiente por definición del plan. Textos completos traducidos al español: [[Libros_Traducidos/|Libros_Traducidos]].
+Nivel 1 = lo que trata cada libro, puntos clave, en breve. Nivel 2 detallado por capítulo ya existe en español para los 5 libros en estudio activo (Willingham, Oakley, Foer, Shea, McHugh): ver [[Resumenes_Nivel2/00_INDEX_NIVEL2|índice Nivel 2]]. Nivel 3 (lectura completa) queda pendiente por definición del plan.
 
 Biblioteca organizada en **6 modos de aprendizaje** (formas de aprender) divididos en **ramas** (subcategorías, para poder dividirse más a futuro): elija el modo, luego la rama; dentro de cada rama los libros van por prioridad 1 → 2 → 3. Versión extendida: [[00_MODOS_APRENDIZAJE|Modos de aprendizaje (con rutas en disco)]].
 

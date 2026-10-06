@@ -2,13 +2,12 @@
 
 **Autor:** Daniel T. Willingham
 **Aprenderás:** Ciencia cognitiva aplicada al aula y al estudio
-**Idioma:** resumen generado en español desde los capítulos traducidos en [[Libros_Traducidos/|Libros_Traducidos]].
+**Idioma:** español.
 **Índice N2:** [[Resumenes_Nivel2/00_INDEX_NIVEL2|00_INDEX_NIVEL2]]
 
 ## Capítulos
 
 ### Capítulo 0 — Introducción: ¿Por qué a los estudiantes no les gusta la escuela?
-> **📖 Nivel 3 — leer el capítulo completo traducido aquí:** [[Resumenes_Nivel3/Willingham_School/cap_00|Abrir cap_00]]
 
 **IDEAS CENTRALES**  
 - **Principio de relevancia cognitiva**: el cerebro prioriza información que percibe como útil para la supervivencia; por eso, los contenidos percibidos como irrelevantes generan desinterés y bajo rendimiento.  
@@ -40,7 +39,6 @@
 → Capítulo completo traducido: [[Willingham_Why_Students_Like_School/00_Introduction|abrir]]
 
 ### Capítulo 1 — 1. ¿Por qué a los estudiantes no les gusta la escuela?
-> **📖 Nivel 3 — leer el capítulo completo traducido aquí:** [[Resumenes_Nivel3/Willingham_School/cap_01|Abrir cap_01]]
 
 **IDEAS CENTRALES**  
 - El cerebro humano está **optimizado para evitar el pensamiento**; pensar es lento, demandante y poco fiable.  
@@ -76,7 +74,6 @@
 → Capítulo completo traducido: [[Willingham_Why_Students_Like_School/01_Chapter_1_-_Why_Dont_Students_Like_School|abrir]]
 
 ### Capítulo 2 — 2. ¿Cómo enseño las habilidades que necesitan si los exámenes estandarizados solo miden memorización?
-> **📖 Nivel 3 — leer el capítulo completo traducido aquí:** [[Resumenes_Nivel3/Willingham_School/cap_02|Abrir cap_02]]
 
 **IDEAS CENTRALES**  
 - El **conocimiento de fondo** es un prerequisito indispensable para que los estudiantes puedan ejercer habilidades cognitivas superiores como el análisis y la síntesis.  
@@ -107,7 +104,6 @@
 → Capítulo completo traducido: [[Willingham_Why_Students_Like_School/02_Chapter_2_-_How_Can_I_Teach_Students_the_Skills_They_Need_When_Standar|abrir]]
 
 ### Capítulo 3 — 3. ¿Por qué recuerdan todo lo de la televisión y olvidan lo que yo digo?
-> **📖 Nivel 3 — leer el capítulo completo traducido aquí:** [[Resumenes_Nivel3/Willingham_School/cap_03|Abrir cap_03]]
 
 **IDEAS CENTRALES**  
 - La **memoria es el residuo del pensamiento**: lo que el estudiante piensa durante la clase es lo que quedará almacenado en la **memoria a largo plazo**.  
@@ -139,7 +135,6 @@
 → Capítulo completo traducido: [[Willingham_Why_Students_Like_School/03_Chapter_3_-_Why_Do_Students_Remember_Everything_Thats_on_Television_an|abrir]]
 
 ### Capítulo 4 — 4. ¿Por qué les cuesta tanto entender las ideas abstractas?
-> **📖 Nivel 3 — leer el capítulo completo traducido aquí:** [[Resumenes_Nivel3/Willingham_School/cap_04|Abrir cap_04]]
 
 **IDEAS CENTRALES**  
 - La mente humana prefiere lo **concreto** a lo **abstracto**; por eso, para comprender una regla abstracta (p. ej., *f = m·a*) necesita ejemplos tangibles.  
@@ -171,7 +166,6 @@
 → Capítulo completo traducido: [[Willingham_Why_Students_Like_School/04_Chapter_4_-_Why_Is_It_So_Hard_for_Students_to_Understand_Abstract_Idea|abrir]]
 
 ### Capítulo 5 — 5. ¿Vale la pena el ensayo repetitivo (drilling)?
-> **📖 Nivel 3 — leer el capítulo completo traducido aquí:** [[Resumenes_Nivel3/Willingham_School/cap_05|Abrir cap_05]]
 
 **IDEAS CENTRALES**  
 - La **práctica extensiva** es indispensable para lograr **automatización** de procesos mentales; sin ella, la tarea sigue consumiendo capacidad de la **memoria de trabajo**.  
@@ -202,7 +196,6 @@
 → Capítulo completo traducido: [[Willingham_Why_Students_Like_School/05_Chapter_5_-_Is_Drilling_Worth_It|abrir]]
 
 ### Capítulo 6 — 6. ¿Cuál es el secreto para que piensen como científicos, matemáticos e historiadores reales?
-> **📖 Nivel 3 — leer el capítulo completo traducido aquí:** [[Resumenes_Nivel3/Willingham_School/cap_06|Abrir cap_06]]
 
 **IDEAS CENTRALES**  
 - La **cognición temprana** difiere cualitativamente de la **cognición tardía**: los novatos organizan la información de forma superficial, mientras que los expertos la estructuran por funciones y principios subyacentes.  
@@ -234,7 +227,6 @@
 → Capítulo completo traducido: [[Willingham_Why_Students_Like_School/06_Chapter_6_-_Whats_the_Secret_to_Getting_Students_to_Think_Like_Real|abrir]]
 
 ### Capítulo 7 — 7. ¿Cómo ajusto mi enseñanza a distintos tipos de estudiantes?
-> **📖 Nivel 3 — leer el capítulo completo traducido aquí:** [[Resumenes_Nivel3/Willingham_School/cap_07|Abrir cap_07]]
 
 **IDEAS CENTRALES**  
 - La evidencia empírica no respalda la existencia de **estilos cognitivos** estables que determinen qué método de enseñanza funciona mejor para cada alumno.  
@@ -267,7 +259,6 @@
 → Capítulo completo traducido: [[Willingham_Why_Students_Like_School/07_Chapter_7_-_How_Should_I_Adjust_My_Teaching_for_Different_Types_of_Lea|abrir]]
 
 ### Capítulo 8 — 8. ¿Cómo puedo ayudar a los estudiantes con ritmo lento?
-> **📖 Nivel 3 — leer el capítulo completo traducido aquí:** [[Resumenes_Nivel3/Willingham_School/cap_08|Abrir cap_08]]
 
 **IDEAS CENTRALES**  
 - La creencia de que la **inteligencia es fija** (mentalidad fija) lleva a que los estudiantes eviten el esfuerzo y elijan tareas fáciles para proteger su auto‑imagen.  
@@ -300,7 +291,6 @@
 → Capítulo completo traducido: [[Willingham_Why_Students_Like_School/08_Chapter_8_-_How_Can_I_Help_Slow_Learners|abrir]]
 
 ### Capítulo 9 — 9. ¿Qué hay de mi propia mente?
-> **📖 Nivel 3 — leer el capítulo completo traducido aquí:** [[Resumenes_Nivel3/Willingham_School/cap_09|Abrir cap_09]]
 
 **IDEAS CENTRALES**  
 - La enseñanza es una **habilidad cognitiva** que depende de la misma arquitectura mental que los estudiantes: **memoria de trabajo**, conocimientos declarativos y procedimientos almacenados en la **memoria a largo plazo**.  
@@ -335,7 +325,6 @@
 → Capítulo completo traducido: [[Willingham_Why_Students_Like_School/09_Chapter_9_-_What_About_My_Mind|abrir]]
 
 ### Capítulo 10 — Conclusión
-> **📖 Nivel 3 — leer el capítulo completo traducido aquí:** [[Resumenes_Nivel3/Willingham_School/cap_10|Abrir cap_10]]
 
 **IDEAS CENTRALES**  
 - **Persuasión docente**: enseñar es convencer al estudiante de continuar su “viaje mental”, de la misma forma que un escritor persuade al lector para que no deje el libro.  

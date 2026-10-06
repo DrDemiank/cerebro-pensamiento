@@ -4,7 +4,6 @@ Nivel 2 = análisis profundo por capítulos en ESPAÑOL de los 5 libros en estud
 
 **Diferencia con Nivel 1:** N1 dice qué trata el libro (una página). N2 lo convierte en material de estudio activo en español (varias páginas por libro, por capítulo).
 
-**Texto completo traducido:** [[Libros_Traducidos/|Libros_Traducidos]] — 79 capítulos .md en español (894 587 palabras).
 
 ## Libros en estudio activo
 
@@ -17,9 +16,9 @@ Nivel 2 = análisis profundo por capítulos en ESPAÑOL de los 5 libros en estud
 | The Perspectives of Psychiatry (2e) — McHugh y Slavney | Psiquiatría: perspectivas | [[Resumenes_Nivel2/The_Perspectives_of_Psychiatry_2e|resumen N2]] |
 
 ---
-Generado el 03-oct-2026 desde los capítulos traducidos de Libros_Traducidos. Cada sección N2 enlaza a su capítulo completo traducido.
+Generado el 03-oct-2026 (actualizado el 05-oct-2026: los textos íntegros traducidos ya no están en el sitio público).
 
 
 ---
 
-**Lectura completa (Nivel 3):** los capítulos íntegros traducidos por libro están en [[Resumenes_Nivel3/Willingham_School/00_INDEX_N3|Nivel 3 — Willingham]]. Cada sección del resumen N2 enlaza a su capítulo completo.
+**Lectura completa (Nivel 3):** la lectura íntegra de los capítulos traducidos se retiró del sitio público y queda solo en la biblioteca local del Dr. Demian.

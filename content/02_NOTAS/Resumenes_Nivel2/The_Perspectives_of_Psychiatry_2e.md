@@ -2,7 +2,7 @@
 
 **Autor:** Phillip R. McHugh y Phillip R. Slavney
 **Aprenderás:** Método de las 4 perspectivas: enfermedad, dimensión de vulnerabilidad, conducta, narrativa
-**Idioma:** resumen generado en español desde los capítulos traducidos en [[Libros_Traducidos/|Libros_Traducidos]].
+**Idioma:** español.
 **Índice N2:** [[Resumenes_Nivel2/00_INDEX_NIVEL2|00_INDEX_NIVEL2]]
 
 ## Capítulos
