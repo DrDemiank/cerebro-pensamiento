@@ -1,6 +1,6 @@
 # Índice de resúmenes Nivel 2 — estudio activo (en español)
 
-Nivel 2 = análisis profundo por capítulos en ESPAÑOL de los 5 libros en estudio activo: Ideas Centrales, Cómo Aplicarlo, Errores Comunes y Recuperación Activa por capítulo. Complementa [[00_INDEX|Resumenes_Nivel1/00_INDEX]].
+Nivel 2 = análisis profundo por capítulos en ESPAÑOL de los 6 libros en estudio activo: Ideas Centrales, Cómo Aplicarlo, Errores Comunes y Recuperación Activa por capítulo. Complementa [[00_INDEX|Resumenes_Nivel1/00_INDEX]].
 
 **Diferencia con Nivel 1:** N1 dice qué trata el libro (una página). N2 lo convierte en material de estudio activo en español (varias páginas por libro, por capítulo).
 
@@ -14,9 +14,10 @@ Nivel 2 = análisis profundo por capítulos en ESPAÑOL de los 5 libros en estud
 | Moonwalking with Einstein — Foer | Ciencia del aprendizaje | [[Resumenes_Nivel2/Moonwalking_with_Einstein|resumen N2]] |
 | Psychiatric Interviewing (3e) — Shea | Psiquiatría: entrevista | [[Resumenes_Nivel2/Psychiatric_Interviewing_3e|resumen N2]] |
 | The Perspectives of Psychiatry (2e) — McHugh y Slavney | Psiquiatría: perspectivas | [[Resumenes_Nivel2/The_Perspectives_of_Psychiatry_2e|resumen N2]] |
+| Pensar rápido, pensar despacio (Thinking, Fast and Slow) — Kahneman | Sesgos cognitivos y toma de decisiones | [[Resumenes_Nivel2/Pensar_rapido_pensar_despacio_Thinking_Fast_and_Slow|resumen N2]] |
 
 ---
-Generado el 03-oct-2026 (actualizado el 05-oct-2026: los textos íntegros traducidos ya no están en el sitio público).
+Generado el 03-oct-2026 (actualizado el 06-oct-2026: los textos íntegros traducidos ya no están en el sitio público; se añade el resumen N2 de Kahneman).
 
 
 ---
